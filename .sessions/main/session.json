@@ -2,9 +2,10 @@
   "guidance": {
     "stages": [
       "discovery",
-      "specification"
+      "specification",
+      "implementation"
     ],
-    "version": 40
+    "version": 41
   },
   "practices": {
     "stories": {
