@@ -3,11 +3,11 @@
     "stages": [
       "specification"
     ],
-    "version": 24
+    "version": 25
   },
   "practices": {
     "stories": {
-      "enabled": true,
+      "enabled": false,
       "fidelities": {
         "story_map": {
           "formats": [
