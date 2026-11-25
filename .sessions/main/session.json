@@ -3,7 +3,7 @@
     "stages": [
       "specification"
     ],
-    "version": 27
+    "version": 28
   },
   "practices": {
     "stories": {
@@ -34,7 +34,8 @@
         "model": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         },
         "modules": {
