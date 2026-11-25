@@ -4,14 +4,14 @@
       "discovery",
       "implementation"
     ],
-    "version": 7
+    "version": 9
   },
   "practices": {
     "stories": {
-      "enabled": false
+      "enabled": true
     },
     "ddd": {
-      "enabled": true
+      "enabled": false
     },
     "ux": {
       "enabled": false
