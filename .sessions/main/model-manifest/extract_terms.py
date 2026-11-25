@@ -27,11 +27,11 @@ def parse(path):
         if head.startswith("## ") and not re.match(r"## (Module|CHAPTER|Domain logic)", head):
             group = head[3:].strip()
             continue
-        if not head.startswith("### ") or "#### Domain language" not in b:
+        if not head.startswith("### ") or "#### domain language" not in b.lower():
             continue
         term = head[4:].strip()
-        lang = re.search(r"#### Domain language\n(.*?)(?=\n####|\Z)", b, re.S)
-        sk = re.search(r"#### Domain Sketch\n(.*?)(?=\n####|\Z)", b, re.S)
+        lang = re.search(r"#### Domain [Ll]anguage\n(.*?)(?=\n####|\Z)", b, re.S)
+        sk = re.search(r"#### Domain [Ss]ketch\n(.*?)(?=\n####|\Z)", b, re.S)
         srcs = sorted(set(re.findall(r"Source: (\S+)", b)))
         groups.setdefault(group, {})[term] = (
             [l for l in (lang[1] if lang else "").splitlines() if l.strip().startswith("-") or l.startswith("  ")],
