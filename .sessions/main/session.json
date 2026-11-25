@@ -1,13 +1,14 @@
 {
   "guidance": {
     "stages": [
+      "discovery",
       "specification"
     ],
-    "version": 47
+    "version": 49
   },
   "practices": {
     "stories": {
-      "enabled": false,
+      "enabled": true,
       "fidelities": {
         "story_map": {
           "formats": [
