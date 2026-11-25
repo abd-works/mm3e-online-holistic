@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 20
+    "version": 21
   },
   "practices": {
     "stories": {
@@ -34,7 +34,8 @@
       "fidelities": {
         "model": {
           "formats": [
-            "markdown"
+            "markdown",
+            "python"
           ]
         },
         "modules": {
