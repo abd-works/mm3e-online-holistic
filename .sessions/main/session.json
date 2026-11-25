@@ -5,11 +5,24 @@
       "specification",
       "implementation"
     ],
-    "version": 10
+    "version": 11
   },
   "practices": {
     "stories": {
-      "enabled": true
+      "enabled": true,
+      "fidelities": {
+        "story_map": {
+          "formats": [
+            "markdown"
+          ]
+        },
+        "scenarios": {
+          "formats": [
+            "python",
+            "markdown"
+          ]
+        }
+      }
     },
     "ddd": {
       "enabled": false
