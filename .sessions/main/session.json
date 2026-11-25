@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 51
+    "version": 52
   },
   "practices": {
     "stories": {
@@ -13,11 +13,14 @@
         "story_map": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         },
         "scenarios": {
-          "formats": []
+          "formats": [
+            "markdown"
+          ]
         }
       }
     },
@@ -33,13 +36,15 @@
         "model": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         },
         "modules": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         }
       }
