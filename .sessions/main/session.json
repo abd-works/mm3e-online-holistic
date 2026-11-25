@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 12
+    "version": 13
   },
   "practices": {
     "stories": {
@@ -30,7 +30,7 @@
       "enabled": false
     },
     "clean_engineering": {
-      "enabled": false
+      "enabled": true
     },
     "bdd": {
       "enabled": false
