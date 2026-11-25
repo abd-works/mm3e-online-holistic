@@ -4,7 +4,7 @@
       "discovery",
       "implementation"
     ],
-    "version": 4
+    "version": 7
   },
   "practices": {
     "stories": {
@@ -14,7 +14,7 @@
       "enabled": true
     },
     "ux": {
-      "enabled": true
+      "enabled": false
     },
     "clean_engineering": {
       "enabled": false
