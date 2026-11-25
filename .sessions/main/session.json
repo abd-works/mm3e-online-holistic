@@ -2,10 +2,9 @@
   "guidance": {
     "stages": [
       "specification",
-      "implementation",
-      "hardening"
+      "implementation"
     ],
-    "version": 44
+    "version": 45
   },
   "practices": {
     "stories": {
