@@ -3,7 +3,7 @@
     "stages": [
       "specification"
     ],
-    "version": 32
+    "version": 35
   },
   "practices": {
     "stories": {
@@ -33,7 +33,9 @@
       "fidelities": {
         "model": {
           "formats": [
-            "markdown"
+            "markdown",
+            "drawio",
+            "whiteboard"
           ]
         },
         "modules": {
