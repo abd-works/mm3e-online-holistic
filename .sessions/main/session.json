@@ -3,7 +3,7 @@
     "stages": [
       "discovery"
     ],
-    "version": 54
+    "version": 55
   },
   "practices": {
     "stories": {
@@ -12,7 +12,8 @@
         "story_map": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         },
         "scenarios": {
@@ -41,7 +42,8 @@
         "modules": {
           "formats": [
             "drawio",
-            "whiteboard"
+            "whiteboard",
+            "markdown"
           ]
         }
       }
