@@ -3,9 +3,10 @@
     "stages": [
       "discovery",
       "specification",
-      "implementation"
+      "implementation",
+      "hardening"
     ],
-    "version": 42
+    "version": 43
   },
   "practices": {
     "stories": {
