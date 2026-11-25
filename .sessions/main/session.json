@@ -4,11 +4,11 @@
       "discovery",
       "specification"
     ],
-    "version": 18
+    "version": 19
   },
   "practices": {
     "stories": {
-      "enabled": false,
+      "enabled": true,
       "fidelities": {
         "story_map": {
           "formats": [
