@@ -16771,3 +16771,33 @@ e 32, in main
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: 'C:\\dev\\mm3e-online-holistic\\story_tests\\configure-powers\\apply-power-modifiers\\apply-flat-modifiers\\enforce-flat-modifier-rules\\allow-removal-of-device-when-character-is-stunned-and-defenseless\\allow_removal_of_device_when_character_is_stunned_and_defenseless_story.test.md'
 
+2026-11-25T19:18:28Z render.render GuidanceTurnedOff: stories-scenarios is a fidelity of stories, which is turned off for session main; turn stories on for the session to work on it
+Traceback (most recent call last):
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 783, in _answer_between_restarts
+    return server.answer(call.request.tool, call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 519, in answer
+    return published.answer(call)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 1027, in answer
+    tool = self._on(self.toolset.for_call(call))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 718, in for_call
+    action.work.take(command)
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 365, in take
+    self.text = argument.text
+                ^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 186, in text
+    if not isinstance(self._guidance, str) or self._one_item() is not None or self._slug_words():
+                                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 240, in _one_item
+    return self._item(self._guidance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 267, in _item
+    named = self._named(text)
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 308, in _named
+    self._refuse_turned_off(slug)
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 319, in _refuse_turned_off
+    raise GuidanceTurnedOff(f"{slug} is {kind} {practice.slug}, which is turned off for session {self._session_name}; turn {practice.slug} on for the session to work on it")
+harness.guidance_actions.guidance_actions.GuidanceTurnedOff: stories-scenarios is a fidelity of stories, which is turned off for session main; turn stories on for the session to work on it

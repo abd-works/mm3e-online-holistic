@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 16
+    "version": 18
   },
   "practices": {
     "stories": {
@@ -30,7 +30,19 @@
       "enabled": false
     },
     "clean_engineering": {
-      "enabled": true
+      "enabled": true,
+      "fidelities": {
+        "model": {
+          "formats": [
+            "markdown"
+          ]
+        },
+        "modules": {
+          "formats": [
+            "markdown"
+          ]
+        }
+      }
     },
     "bdd": {
       "enabled": false
