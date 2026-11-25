@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 37
+    "version": 38
   },
   "practices": {
     "stories": {
@@ -30,7 +30,7 @@
       "enabled": false
     },
     "clean_engineering": {
-      "enabled": true,
+      "enabled": false,
       "fidelities": {
         "model": {
           "formats": [
