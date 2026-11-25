@@ -283,3 +283,5 @@
 2026-11-25T19:14:23Z validate Stories scenarios d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-1604
 2026-11-25T19:14:59Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-1672
 2026-11-25T19:17:37Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-1672
+2026-11-25T19:17:50Z render C:\dev\mm3e-online-holistic, C:\dev\mm3e-online-holistic\tests stories scenarios markdown d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-1710
+2026-11-25T19:18:21Z tool app.open d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-1731
