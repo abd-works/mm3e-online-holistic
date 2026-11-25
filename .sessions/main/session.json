@@ -4,11 +4,11 @@
       "specification",
       "implementation"
     ],
-    "version": 45
+    "version": 46
   },
   "practices": {
     "stories": {
-      "enabled": true,
+      "enabled": false,
       "fidelities": {
         "story_map": {
           "formats": [

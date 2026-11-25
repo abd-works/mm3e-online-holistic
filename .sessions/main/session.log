@@ -342,3 +342,9 @@
 2026-11-25T19:48:41Z tool graph.load_files d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-2985
 2026-11-25T19:48:46Z tool graph.inventory d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-2998
 2026-11-25T19:49:01Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3016
+2026-11-25T19:56:18Z tool prompt-queue.show b553a3ab-58ad-4e1c-ad2b-557a2756011a unknown 1
+2026-11-25T19:56:28Z tool prompt-queue.show 647f66a7-4db4-41a8-8ddd-9ef785482e67 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\647f66a7-4db4-41a8-8ddd-9ef785482e67.jsonl 1-650
+2026-11-25T19:56:41Z tool app.open 647f66a7-4db4-41a8-8ddd-9ef785482e67 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\647f66a7-4db4-41a8-8ddd-9ef785482e67.jsonl 1-650
+2026-11-25T19:56:58Z tool prompt-queue.show b553a3ab-58ad-4e1c-ad2b-557a2756011a C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\b553a3ab-58ad-4e1c-ad2b-557a2756011a.jsonl 1-57
+2026-11-25T19:57:41Z tool prompt-queue.show 647f66a7-4db4-41a8-8ddd-9ef785482e67 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\647f66a7-4db4-41a8-8ddd-9ef785482e67.jsonl 1-677
+2026-11-25T20:01:25Z tool app.open d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3030
