@@ -16801,3 +16801,60 @@ Traceback (most recent call last):
   File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 319, in _refuse_turned_off
     raise GuidanceTurnedOff(f"{slug} is {kind} {practice.slug}, which is turned off for session {self._session_name}; turn {practice.slug} on for the session to work on it")
 harness.guidance_actions.guidance_actions.GuidanceTurnedOff: stories-scenarios is a fidelity of stories, which is turned off for session main; turn stories on for the session to work on it
+2026-11-25T19:24:09Z render.render GraphBuildFailed: the graph build's worker process exited with 1:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_worker.py", line 40, in <module>
+    main(sys.argv[1:])
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_worker.py", line 33, in main
+    Path(arguments[1]).write_text(built.text, encoding="utf-8")
+  File "C:\Users\jeffa\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1047, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\jeffa\\AppData\\Local\\Temp\\cdd-graph-answers-2iaribla\\answer-1.json'
+Traceback (most recent call last):
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 783, in _answer_between_restarts
+    return server.answer(call.request.tool, call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 519, in answer
+    return published.answer(call)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 1029, in answer
+    return tool.callable(**self.parameter_schema.coerced(call.arguments), **tool._from_the_call(call))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\cdd_guidance\actions\render\render.py", line 80, in render
+    self.files.wrote([str(path) for result in converted if isinstance(result, RenderResult) for path in result.saved])
+  File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 585, in wrote
+    self._action.graph.refresh([str(path) for path in paths], self._action.call)
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph.py", line 1412, in refresh
+    return self.reads.refresh(paths, _builds_apart(call))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_reads.py", line 100, in refresh
+    return self._refresh(paths, BuildTask(BuildStep.REFRESH, apart=apart))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_reads.py", line 149, in _refresh
+    graph.build.run(task)
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_build.py", line 345, in run
+    WorkerBuild(self.graph).carry_out(lambda: self._order(task, state), answer)
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_build.py", line 293, in carry_out
+    raise GraphBuildFailed(exit_code, errors_file.read_text(encoding="utf-8", errors="replace"))
+harness.graph.graph_build.GraphBuildFailed: the graph build's worker process exited with 1:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_worker.py", line 40, in <module>
+    main(sys.argv[1:])
+  File "C:\Users\jeffa\.cdd\runtime\harness\graph\graph_worker.py", line 33, in main
+    Path(arguments[1]).write_text(built.text, encoding="utf-8")
+  File "C:\Users\jeffa\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1047, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\AppData\Local\Programs\Python\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\jeffa\\AppData\\Local\\Temp\\cdd-graph-answers-2iaribla\\answer-1.json'
+
