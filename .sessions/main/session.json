@@ -4,6 +4,23 @@
       "discovery",
       "implementation"
     ],
-    "version": 1
+    "version": 4
+  },
+  "practices": {
+    "stories": {
+      "enabled": false
+    },
+    "ddd": {
+      "enabled": true
+    },
+    "ux": {
+      "enabled": true
+    },
+    "clean_engineering": {
+      "enabled": false
+    },
+    "bdd": {
+      "enabled": false
+    }
   }
 }
