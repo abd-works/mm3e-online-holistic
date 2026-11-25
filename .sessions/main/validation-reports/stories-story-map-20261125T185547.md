@@ -103,3 +103,22 @@ Rule text: [stories/stories.md:90](C:\Users\jeffa\.cdd\runtime\cdd_guidance\prac
 ### `story-map-links-to-markdown`
 
 Rule text: [stories/stories.md:91](C:\Users\jeffa\.cdd\runtime\cdd_guidance\practices\stories\stories.md#L91)
+
+## Judgment — `.context/story-map.md`
+
+### `branch-on-mechanical-uniqueness` — Fail
+- story-map.md:135 `Use Combat Skills`: Add Close Combat Rank and Add Ranged Combat Rank are one mechanic (a skill rank added to attack checks with one named weapon or power), told apart only by range; consolidation-notes.md says both follow the same narrow pattern. One story with close and ranged as examples fits the rule.
+- story-map.md:477 `Add Headquarters Features`: the eight Add … Feature stories share one mechanic (spend an equipment point to add a named feature) and differ only in what the feature grants; they read as one story with the features as examples.
+
+### `verb-noun-format` — Fail
+- story-map.md:63 `Advance Hero`: flagged because the checker read "Advance" as a noun; renamed to `Improve Hero Between Adventures` after this run. The same fix was applied to `Influence Target with Intimidation` → `Intimidate Target` (line 108) and `Influence Target with Persuasion` → `Persuade Target` (line 112). A re-validate should clear all three.
+
+Passes: `child-count-fits-layer` (all bands met after regrouping), `story-name-captures-system-mechanic` (each Perform/Execute story names its game mechanic in the noun: routine check, acrobatic maneuver, legerdemain, jury-rig, ritual, grab, disarm, trip, feint, charge, slam, team attack, last order), the other `branch-on-mechanical-uniqueness` candidates (each Select … Effect story chooses a different effect with its own parameters; Apply Passive Combat Bonus and Choose Flat Modifiers stories apply different bonuses or modifiers with different rules), `kebab-case-paths`, `story-scenarios-at-most-seven`.
+
+## Graph hits judged noise
+
+| File:line | Rule | Why it is noise |
+| --- | --- | --- |
+| .context/story-map.md:63 | verb-noun-format | "Advance" is a base-form verb; the checker read it as a nominalisation (renamed anyway) |
+| .context/story-map.md:108 | verb-noun-format | "Influence" is a base-form verb; the checker read it as a nominalisation (renamed anyway) |
+| .context/story-map.md:112 | verb-noun-format | "Influence" is a base-form verb; the checker read it as a nominalisation (renamed anyway) |

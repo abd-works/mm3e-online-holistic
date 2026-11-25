@@ -1,0 +1,212 @@
+[
+ {
+  "actor": "Player",
+  "story": "Purchase Advantage Rank",
+  "path": "story_tests/select-advantages/acquire-advantage/purchase-advantage-rank/purchase_advantage_rank_story.test.md",
+  "map_path": "Select Advantages > Acquire Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Validate Power Point Cost for Advantage",
+  "path": "story_tests/select-advantages/acquire-advantage/validate-power-point-cost-for-advantage/validate_power_point_cost_for_advantage_story.test.md",
+  "map_path": "Select Advantages > Acquire Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Power Level Cap on Attack Advantage Bonus",
+  "path": "story_tests/select-advantages/acquire-advantage/enforce-power-level-cap-on-attack-advantage-bonus/enforce_power_level_cap_on_attack_advantage_bonus_story.test.md",
+  "map_path": "Select Advantages > Acquire Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Cap Luck Maximum Rank at Half Power Level",
+  "path": "story_tests/select-advantages/acquire-advantage/cap-luck-maximum-rank-at-half-power-level/cap_luck_maximum_rank_at_half_power_level_story.test.md",
+  "map_path": "Select Advantages > Acquire Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Attack Trade-Off Maneuver (accurate, all-out, defensive, power)",
+  "path": "story_tests/select-advantages/apply-combat-advantage/execute-attack-trade-off-maneuver/execute-attack-trade-off-maneuver-accurate-all-out-defensive-power/execute_attack_trade_off_maneuver_accurate_all_out_defensive_power_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Execute Attack Trade-Off Maneuver"
+ },
+ {
+  "actor": "System",
+  "story": "Adjust Attack and Defense Values by Trade-Off Amount",
+  "path": "story_tests/select-advantages/apply-combat-advantage/execute-attack-trade-off-maneuver/adjust-attack-and-defense-values-by-trade-off-amount/adjust_attack_and_defense_values_by_trade_off_amount_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Execute Attack Trade-Off Maneuver"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Ranked Attack Bonus to Close or Ranged Attack Check",
+  "path": "story_tests/select-advantages/apply-combat-advantage/apply-passive-combat-bonus/apply-ranked-attack-bonus-to-close-or-ranged-attack-check/apply_ranked_attack_bonus_to_close_or_ranged_attack_check_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Apply Passive Combat Bonus"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Initiative Bonus from Improved Initiative",
+  "path": "story_tests/select-advantages/apply-combat-advantage/apply-passive-combat-bonus/apply-initiative-bonus-from-improved-initiative/apply_initiative_bonus_from_improved_initiative_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Apply Passive Combat Bonus"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Extended Critical Threat Range via Improved Critical",
+  "path": "story_tests/select-advantages/apply-combat-advantage/apply-passive-combat-bonus/apply-extended-critical-threat-range-via-improved-critical/apply_extended_critical_threat_range_via_improved_critical_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Apply Passive Combat Bonus"
+ },
+ {
+  "actor": "Player",
+  "story": "Declare Favored Environment Bonus Allocation",
+  "path": "story_tests/select-advantages/apply-combat-advantage/apply-situational-combat-bonus/declare-favored-environment-bonus-allocation/declare_favored_environment_bonus_allocation_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Apply Situational Combat Bonus"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Favored Environment Circumstance Bonus",
+  "path": "story_tests/select-advantages/apply-combat-advantage/apply-situational-combat-bonus/apply-favored-environment-circumstance-bonus/apply_favored_environment_circumstance_bonus_story.test.md",
+  "map_path": "Select Advantages > Apply Combat Advantage > Apply Situational Combat Bonus"
+ },
+ {
+  "actor": "Player",
+  "story": "Re-Roll Die Using Luck Rank",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/re-roll-die-using-luck-rank/re_roll_die_using_luck_rank_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Luck Session-Use Limit and Refresh at Adventure Start",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/enforce-luck-session-use-limit-and-refresh-at-adventure-start/enforce_luck_session_use_limit_and_refresh_at_adventure_start_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Inspire Allies with Hero Point",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/inspire-allies-with-hero-point/inspire_allies_with_hero_point_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Inspiration Bonus Ignoring Power Level Cap",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/apply-inspiration-bonus-ignoring-power-level-cap/apply_inspiration_bonus_ignoring_power_level_cap_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Remove Ally Condition via Leadership",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/remove-ally-condition-via-leadership/remove_ally_condition_via_leadership_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Gain Temporary Skill Ranks via Beginner's Luck",
+  "path": "story_tests/select-advantages/activate-fortune-advantage/gain-temporary-skill-ranks-via-beginner-s-luck/gain_temporary_skill_ranks_via_beginner_s_luck_story.test.md",
+  "map_path": "Select Advantages > Activate Fortune Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Use Any Skill Untrained via Jack of All Trades",
+  "path": "story_tests/select-advantages/use-skill-advantage/use-any-skill-untrained-via-jack-of-all-trades/use_any_skill_untrained_via_jack_of_all_trades_story.test.md",
+  "map_path": "Select Advantages > Use Skill Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Routine Skill Check Under Pressure via Skill Mastery",
+  "path": "story_tests/select-advantages/use-skill-advantage/make-routine-skill-check-under-pressure-via-skill-mastery/make_routine_skill_check_under_pressure_via_skill_mastery_story.test.md",
+  "map_path": "Select Advantages > Use Skill Advantage"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Favored Foe Circumstance Bonus to Qualifying Checks",
+  "path": "story_tests/select-advantages/use-skill-advantage/apply-favored-foe-circumstance-bonus-to-qualifying-checks/apply_favored_foe_circumstance_bonus_to_qualifying_checks_story.test.md",
+  "map_path": "Select Advantages > Use Skill Advantage"
+ },
+ {
+  "actor": "Player",
+  "story": "Allocate Equipment Points to Gear",
+  "path": "story_tests/select-advantages/manage-character-resources/configure-equipment/allocate-equipment-points-to-gear/allocate_equipment_points_to_gear_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Configure Equipment"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Equipment Point Budget from Rank",
+  "path": "story_tests/select-advantages/manage-character-resources/configure-equipment/enforce-equipment-point-budget-from-rank/enforce_equipment_point_budget_from_rank_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Configure Equipment"
+ },
+ {
+  "actor": "Player",
+  "story": "Configure Minion Traits Within Power Point Budget",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-minion/configure-minion-traits-within-power-point-budget/configure_minion_traits_within_power_point_budget_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Minion"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Minion Power Level Limits",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-minion/enforce-minion-power-level-limits/enforce_minion_power_level_limits_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Minion"
+ },
+ {
+  "actor": "System",
+  "story": "Replace Lost Minion Between Adventures",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-minion/replace-lost-minion-between-adventures/replace_lost_minion_between_adventures_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Minion"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points to Improve Minion Rank",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-minion/spend-power-points-to-improve-minion-rank/spend_power_points_to_improve_minion_rank_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Minion"
+ },
+ {
+  "actor": "Player",
+  "story": "Configure Sidekick Traits Within Power Point Budget",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-sidekick/configure-sidekick-traits-within-power-point-budget/configure_sidekick_traits_within_power_point_budget_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Sidekick"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Sidekick Power Point Total Below Owner Total",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-sidekick/enforce-sidekick-power-point-total-below-owner-total/enforce_sidekick_power_point_total_below_owner_total_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Sidekick"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point on Sidekick's Behalf",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-sidekick/spend-hero-point-on-sidekick-s-behalf/spend_hero_point_on_sidekick_s_behalf_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Sidekick"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points to Improve Sidekick Rank",
+  "path": "story_tests/select-advantages/manage-character-resources/manage-sidekick/spend-power-points-to-improve-sidekick-rank/spend_power_points_to_improve_sidekick_rank_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Manage Sidekick"
+ },
+ {
+  "actor": "Player",
+  "story": "Propose Benefit to GM",
+  "path": "story_tests/select-advantages/manage-character-resources/establish-benefit/propose-benefit-to-gm/propose_benefit_to_gm_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Establish Benefit"
+ },
+ {
+  "actor": "GM",
+  "story": "Approve or Reject Benefit Definition",
+  "path": "story_tests/select-advantages/manage-character-resources/establish-benefit/approve-or-reject-benefit-definition/approve_or_reject_benefit_definition_story.test.md",
+  "map_path": "Select Advantages > Manage Character Resources > Establish Benefit"
+ },
+ {
+  "actor": "System",
+  "story": "Persist Advantage Selections on Character Sheet",
+  "path": "story_tests/select-advantages/maintain-advantage-state/persist-advantage-selections-on-character-sheet/persist_advantage_selections_on_character_sheet_story.test.md",
+  "map_path": "Select Advantages > Maintain Advantage State"
+ },
+ {
+  "actor": "System",
+  "story": "Track Luck Rank Uses per Session",
+  "path": "story_tests/select-advantages/maintain-advantage-state/track-luck-rank-uses-per-session/track_luck_rank_uses_per_session_story.test.md",
+  "map_path": "Select Advantages > Maintain Advantage State"
+ },
+ {
+  "actor": "System",
+  "story": "Refresh Luck Ranks at Start of Adventure",
+  "path": "story_tests/select-advantages/maintain-advantage-state/refresh-luck-ranks-at-start-of-adventure/refresh_luck_ranks_at_start_of_adventure_story.test.md",
+  "map_path": "Select Advantages > Maintain Advantage State"
+ }
+]

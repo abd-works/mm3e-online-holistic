@@ -1,0 +1,692 @@
+[
+ {
+  "actor": "Player",
+  "story": "Acquire Equipment Advantage Ranks",
+  "path": "story_tests/equip-hero/configure-equipment-pool/acquire-equipment-advantage-ranks/acquire_equipment_advantage_ranks_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Equipment Point Budget from Advantage Ranks",
+  "path": "story_tests/equip-hero/configure-equipment-pool/derive-equipment-point-budget-from-advantage-ranks/derive_equipment_point_budget_from_advantage_ranks_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "Player",
+  "story": "Pay Equipment Points for Item",
+  "path": "story_tests/equip-hero/configure-equipment-pool/pay-equipment-points-for-item/pay_equipment_points_for_item_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Equipment Point Budget Limit",
+  "path": "story_tests/equip-hero/configure-equipment-pool/enforce-equipment-point-budget-limit/enforce_equipment_point_budget_limit_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Equipment Bonus Non-stacking",
+  "path": "story_tests/equip-hero/configure-equipment-pool/enforce-equipment-bonus-non-stacking/enforce_equipment_bonus_non_stacking_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Alternate Equipment Array",
+  "path": "story_tests/equip-hero/configure-equipment-pool/build-alternate-equipment-array/build_alternate_equipment_array_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "System",
+  "story": "Restrict Alternate Equipment to One Active Item",
+  "path": "story_tests/equip-hero/configure-equipment-pool/restrict-alternate-equipment-to-one-active-item/restrict_alternate_equipment_to_one_active_item_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "Player",
+  "story": "Access On-Hand Item with Hero Point",
+  "path": "story_tests/equip-hero/configure-equipment-pool/access-on-hand-item-with-hero-point/access_on_hand_item_with_hero_point_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "Player",
+  "story": "Pool Equipment Points with Team Members",
+  "path": "story_tests/equip-hero/configure-equipment-pool/pool-equipment-points-with-team-members/pool_equipment_points_with_team_members_story.test.md",
+  "map_path": "Equip Hero > Configure Equipment Pool"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Simple Melee Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/select-simple-melee-weapon/select_simple_melee_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Archaic Melee Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/select-archaic-melee-weapon/select_archaic_melee_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Exotic Melee Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/select-exotic-melee-weapon/select_exotic_melee_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Extend Weapon Critical Threat Range",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/extend-weapon-critical-threat-range/extend_weapon_critical_threat_range_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "System",
+  "story": "Add Wielder Strength to Melee Damage",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/add-wielder-strength-to-melee-damage/add_wielder_strength_to_melee_damage_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "System",
+  "story": "Break Weapon on Strength Excess",
+  "path": "story_tests/equip-hero/acquire-weapons/select-melee-weapon/break-weapon-on-strength-excess/break_weapon_on_strength_excess_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Melee Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Projectile Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-ranged-weapon/select-projectile-weapon/select_projectile_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Ranged Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Energy Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-ranged-weapon/select-energy-weapon/select_energy_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Ranged Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Heavy Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-ranged-weapon/select-heavy-weapon/select_heavy_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Ranged Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Thrown Weapon",
+  "path": "story_tests/equip-hero/acquire-weapons/select-ranged-weapon/select-thrown-weapon/select_thrown_weapon_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Ranged Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Weapon Accessory",
+  "path": "story_tests/equip-hero/acquire-weapons/select-ranged-weapon/add-weapon-accessory/add_weapon_accessory_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Select Ranged Weapon"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Grenade Type",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/select-grenade-type/select_grenade_type_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Grenade Burst Area Effect",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/apply-grenade-burst-area-effect/apply_grenade_burst_area_effect_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Grenade Cloud Area Effect",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/apply-grenade-cloud-area-effect/apply_grenade_cloud_area_effect_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "Player",
+  "story": "Place Explosive Device",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/place-explosive-device/place_explosive_device_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Explosive Burst Area Damage",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/apply-explosive-burst-area-damage/apply_explosive_burst_area_damage_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "System",
+  "story": "Scale Explosive Damage by Quantity",
+  "path": "story_tests/equip-hero/acquire-weapons/use-area-weapons/scale-explosive-damage-by-quantity/scale_explosive_damage_by_quantity_story.test.md",
+  "map_path": "Equip Hero > Acquire Weapons > Use Area Weapons"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Archaic Armor Type",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/select-archaic-armor-type/select_archaic_armor_type_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Modern Armor Type",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/select-modern-armor-type/select_modern_armor_type_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "System",
+  "story": "Restrict Modern Armor Bonus to Ballistic",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/restrict-modern-armor-bonus-to-ballistic/restrict_modern_armor_bonus_to_ballistic_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Shield Type",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/select-shield-type/select_shield_type_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Active Defense Bonus from Shield",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/apply-active-defense-bonus-from-shield/apply_active_defense_bonus_from_shield_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Armor Bonus Non-stacking Rule",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/enforce-armor-bonus-non-stacking-rule/enforce_armor_bonus_non_stacking_rule_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "System",
+  "story": "Cap Equipment Toughness at Power Level",
+  "path": "story_tests/equip-hero/acquire-defensive-gear/cap-equipment-toughness-at-power-level/cap_equipment_toughness_at_power_level_story.test.md",
+  "map_path": "Equip Hero > Acquire Defensive Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Purchase Communications Device",
+  "path": "story_tests/equip-hero/acquire-general-gear/purchase-communications-device/purchase_communications_device_story.test.md",
+  "map_path": "Equip Hero > Acquire General Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Purchase Surveillance Equipment",
+  "path": "story_tests/equip-hero/acquire-general-gear/purchase-surveillance-equipment/purchase_surveillance_equipment_story.test.md",
+  "map_path": "Equip Hero > Acquire General Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Purchase Transportation Device",
+  "path": "story_tests/equip-hero/acquire-general-gear/purchase-transportation-device/purchase_transportation_device_story.test.md",
+  "map_path": "Equip Hero > Acquire General Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Purchase Professional Tools",
+  "path": "story_tests/equip-hero/acquire-general-gear/purchase-professional-tools/purchase_professional_tools_story.test.md",
+  "map_path": "Equip Hero > Acquire General Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Utility Belt Array",
+  "path": "story_tests/equip-hero/acquire-general-gear/build-utility-belt-array/build_utility_belt_array_story.test.md",
+  "map_path": "Equip Hero > Acquire General Gear"
+ },
+ {
+  "actor": "Player",
+  "story": "Designate Power as Removable Device",
+  "path": "story_tests/equip-hero/build-device/define-device-type/designate-power-as-removable-device/designate_power_as_removable_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "Player",
+  "story": "Designate Power as Easily Removable Device",
+  "path": "story_tests/equip-hero/build-device/define-device-type/designate-power-as-easily-removable-device/designate_power_as_easily_removable_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "Player",
+  "story": "Mark Device as Indestructible",
+  "path": "story_tests/equip-hero/build-device/define-device-type/mark-device-as-indestructible/mark_device_as_indestructible_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Reduced Cost from Removable Flaw",
+  "path": "story_tests/equip-hero/build-device/define-device-type/calculate-reduced-cost-from-removable-flaw/calculate_reduced_cost_from_removable_flaw_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Reduced Cost from Easily Removable Flaw",
+  "path": "story_tests/equip-hero/build-device/define-device-type/calculate-reduced-cost-from-easily-removable-flaw/calculate_reduced_cost_from_easily_removable_flaw_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "System",
+  "story": "Adjust Cost for Indestructible Modifier",
+  "path": "story_tests/equip-hero/build-device/define-device-type/adjust-cost-for-indestructible-modifier/adjust_cost_for_indestructible_modifier_story.test.md",
+  "map_path": "Equip Hero > Build Device > Define Device Type"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Battlesuit Power Armor Device",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/build-battlesuit-power-armor-device/build_battlesuit_power_armor_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Battlesuit Protection Powers",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/assign-battlesuit-protection-powers/assign_battlesuit_protection_powers_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Battlesuit Attack Powers",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/assign-battlesuit-attack-powers/assign_battlesuit_attack_powers_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Battlesuit Movement Powers",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/assign-battlesuit-movement-powers/assign_battlesuit_movement_powers_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Battlesuit Sensor Powers",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/assign-battlesuit-sensor-powers/assign_battlesuit_sensor_powers_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Costume Device",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/build-costume-device/build_costume_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Enhanced Equipment Device",
+  "path": "story_tests/equip-hero/build-device/build-specialized-device/build-enhanced-equipment-device/build_enhanced_equipment_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Build Specialized Device"
+ },
+ {
+  "actor": "Player",
+  "story": "Use Device Temporarily Without Power Points",
+  "path": "story_tests/equip-hero/build-device/use-device-in-play/use-device-temporarily-without-power-points/use_device_temporarily_without_power_points_story.test.md",
+  "map_path": "Equip Hero > Build Device > Use Device in Play"
+ },
+ {
+  "actor": "GM",
+  "story": "Require Hero Point to Borrow Another Hero's Device",
+  "path": "story_tests/equip-hero/build-device/use-device-in-play/require-hero-point-to-borrow-another-hero-s-device/require_hero_point_to_borrow_another_hero_s_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Use Device in Play"
+ },
+ {
+  "actor": "System",
+  "story": "Remove Powers When Device Taken Away",
+  "path": "story_tests/equip-hero/build-device/use-device-in-play/remove-powers-when-device-taken-away/remove_powers_when_device_taken_away_story.test.md",
+  "map_path": "Equip Hero > Build Device > Use Device in Play"
+ },
+ {
+  "actor": "System",
+  "story": "Allow Replacement of Permanently Lost Device",
+  "path": "story_tests/equip-hero/build-device/use-device-in-play/allow-replacement-of-permanently-lost-device/allow_replacement_of_permanently_lost_device_story.test.md",
+  "map_path": "Equip Hero > Build Device > Use Device in Play"
+ },
+ {
+  "actor": "Player",
+  "story": "Define Invention Effect and Point Cost",
+  "path": "story_tests/equip-hero/invent-temporary-device/design-invention/define-invention-effect-and-point-cost/define_invention_effect_and_point_cost_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Design Invention"
+ },
+ {
+  "actor": "GM",
+  "story": "Make Design Check in Secret",
+  "path": "story_tests/equip-hero/invent-temporary-device/design-invention/make-design-check-in-secret/make_design_check_in_secret_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Design Invention"
+ },
+ {
+  "actor": "System",
+  "story": "Set Design Check DC from Invention Cost",
+  "path": "story_tests/equip-hero/invent-temporary-device/design-invention/set-design-check-dc-from-invention-cost/set_design_check_dc_from_invention_cost_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Design Invention"
+ },
+ {
+  "actor": "System",
+  "story": "Flag Design as Flawed at 3 Degrees Failure",
+  "path": "story_tests/equip-hero/invent-temporary-device/design-invention/flag-design-as-flawed-at-3-degrees-failure/flag_design_as_flawed_at_3_degrees_failure_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Design Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Reduce Design Time with Check Penalty",
+  "path": "story_tests/equip-hero/invent-temporary-device/design-invention/reduce-design-time-with-check-penalty/reduce_design_time_with_check_penalty_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Design Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Complete Construction Check",
+  "path": "story_tests/equip-hero/invent-temporary-device/construct-invention/complete-construction-check/complete_construction_check_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Construct Invention"
+ },
+ {
+  "actor": "System",
+  "story": "Set Construction Check DC from Invention Cost",
+  "path": "story_tests/equip-hero/invent-temporary-device/construct-invention/set-construction-check-dc-from-invention-cost/set_construction_check_dc_from_invention_cost_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Construct Invention"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Construction Time from Invention Cost",
+  "path": "story_tests/equip-hero/invent-temporary-device/construct-invention/calculate-construction-time-from-invention-cost/calculate_construction_time_from_invention_cost_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Construct Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Reduce Construction Time with Check Penalty",
+  "path": "story_tests/equip-hero/invent-temporary-device/construct-invention/reduce-construction-time-with-check-penalty/reduce_construction_time_with_check_penalty_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Construct Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Use Invention for One Scene",
+  "path": "story_tests/equip-hero/invent-temporary-device/use-invention/use-invention-for-one-scene/use_invention_for_one_scene_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Use Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Reuse Invention with Hero Point",
+  "path": "story_tests/equip-hero/invent-temporary-device/use-invention/reuse-invention-with-hero-point/reuse_invention_with_hero_point_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Use Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Invention Permanent with Power Points",
+  "path": "story_tests/equip-hero/invent-temporary-device/use-invention/make-invention-permanent-with-power-points/make_invention_permanent_with_power_points_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Use Invention"
+ },
+ {
+  "actor": "Player",
+  "story": "Jury-Rig Device by Spending Hero Point",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/jury-rig-device-by-spending-hero-point/jury_rig_device_by_spending_hero_point_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "System",
+  "story": "Skip Design Phase for Jury-Rigged Device",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/skip-design-phase-for-jury-rigged-device/skip_design_phase_for_jury_rigged_device_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Construction DC Penalty for Jury-Rig",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/apply-construction-dc-penalty-for-jury-rig/apply_construction_dc_penalty_for_jury_rig_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "System",
+  "story": "Compress Construction to Rounds for Jury-Rig",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/compress-construction-to-rounds-for-jury-rig/compress_construction_to_rounds_for_jury_rig_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "Player",
+  "story": "Perform Magical Ritual",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/perform-magical-ritual/perform_magical_ritual_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "Player",
+  "story": "Jury-Rig Magical Ritual",
+  "path": "story_tests/equip-hero/invent-temporary-device/emergency-inventing/jury-rig-magical-ritual/jury_rig_magical_ritual_story.test.md",
+  "map_path": "Equip Hero > Invent Temporary Device > Emergency Inventing"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Vehicle Size Category",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/select-vehicle-size-category/select_vehicle_size_category_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Base Vehicle Traits from Size",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/derive-base-vehicle-traits-from-size/derive_base_vehicle_traits_from_size_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Defense Penalty for Large Vehicle",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/apply-defense-penalty-for-large-vehicle/apply_defense_penalty_for_large_vehicle_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "Player",
+  "story": "Set Vehicle Strength Above Size Default",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/set-vehicle-strength-above-size-default/set_vehicle_strength_above_size_default_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Vehicle Speed Effect",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/select-vehicle-speed-effect/select_vehicle_speed_effect_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "Player",
+  "story": "Set Vehicle Toughness",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/set-vehicle-toughness/set_vehicle_toughness_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "Player",
+  "story": "Buy Off Vehicle Defense Penalty",
+  "path": "story_tests/equip-hero/design-vehicle/configure-vehicle-traits/buy-off-vehicle-defense-penalty/buy_off_vehicle_defense_penalty_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Configure Vehicle Traits"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Standard Vehicle Feature",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/add-standard-vehicle-feature/add_standard_vehicle_feature_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Vehicle Armor Power Effect",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/add-vehicle-armor-power-effect/add_vehicle_armor_power_effect_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Vehicle Cloaking Device Feature",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/add-vehicle-cloaking-device-feature/add_vehicle_cloaking_device_feature_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Vehicle Weapon Effect",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/add-vehicle-weapon-effect/add_vehicle_weapon_effect_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Vehicle Smokescreen Feature",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/add-vehicle-smokescreen-feature/add_vehicle_smokescreen_feature_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Vehicle Power Effect at One-Fifth Cost",
+  "path": "story_tests/equip-hero/design-vehicle/add-vehicle-features-and-powers/calculate-vehicle-power-effect-at-one-fifth-cost/calculate_vehicle_power_effect_at_one_fifth_cost_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Add Vehicle Features and Powers"
+ },
+ {
+  "actor": "Player",
+  "story": "Pool Equipment Points for Team Vehicle",
+  "path": "story_tests/equip-hero/design-vehicle/manage-vehicle-ownership/pool-equipment-points-for-team-vehicle/pool_equipment_points_for_team_vehicle_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Manage Vehicle Ownership"
+ },
+ {
+  "actor": "Player",
+  "story": "Set Up Alternate Vehicles Array",
+  "path": "story_tests/equip-hero/design-vehicle/manage-vehicle-ownership/set-up-alternate-vehicles-array/set_up_alternate_vehicles_array_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Manage Vehicle Ownership"
+ },
+ {
+  "actor": "Player",
+  "story": "Access Non-Primary Vehicle with Hero Point",
+  "path": "story_tests/equip-hero/design-vehicle/manage-vehicle-ownership/access-non-primary-vehicle-with-hero-point/access_non_primary_vehicle_with_hero_point_story.test.md",
+  "map_path": "Equip Hero > Design Vehicle > Manage Vehicle Ownership"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Headquarters Size Category",
+  "path": "story_tests/equip-hero/design-headquarters/configure-headquarters-structure/select-headquarters-size-category/select_headquarters_size_category_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Configure Headquarters Structure"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Base Toughness from Size",
+  "path": "story_tests/equip-hero/design-headquarters/configure-headquarters-structure/derive-base-toughness-from-size/derive_base_toughness_from_size_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Configure Headquarters Structure"
+ },
+ {
+  "actor": "Player",
+  "story": "Set Headquarters Toughness Above Default",
+  "path": "story_tests/equip-hero/design-headquarters/configure-headquarters-structure/set-headquarters-toughness-above-default/set_headquarters_toughness_above_default_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Configure Headquarters Structure"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Communications Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-communications-feature/add_communications_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Defense System Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-defense-system-feature/add_defense_system_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Security System Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-security-system-feature/add_security_system_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Holding Cells Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-holding-cells-feature/add_holding_cells_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Workshop or Laboratory Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-workshop-or-laboratory-feature/add_workshop_or_laboratory_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Living Space Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-living-space-feature/add_living_space_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Power System Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-power-system-feature/add_power_system_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Self-Repairing Feature",
+  "path": "story_tests/equip-hero/design-headquarters/add-headquarters-features/add-self-repairing-feature/add_self_repairing_feature_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Add Headquarters Features"
+ },
+ {
+  "actor": "System",
+  "story": "Cap Feature Power Effect at Twice HQ Power Level",
+  "path": "story_tests/equip-hero/design-headquarters/enforce-headquarters-feature-limits/cap-feature-power-effect-at-twice-hq-power-level/cap_feature_power_effect_at_twice_hq_power_level_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Enforce Headquarters Feature Limits"
+ },
+ {
+  "actor": "System",
+  "story": "Set Defense System Attack Bonus to HQ Power Level",
+  "path": "story_tests/equip-hero/design-headquarters/enforce-headquarters-feature-limits/set-defense-system-attack-bonus-to-hq-power-level/set_defense_system_attack_bonus_to_hq_power_level_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Enforce Headquarters Feature Limits"
+ },
+ {
+  "actor": "Player",
+  "story": "Pool Equipment Points for Team Headquarters",
+  "path": "story_tests/equip-hero/design-headquarters/manage-headquarters-ownership/pool-equipment-points-for-team-headquarters/pool_equipment_points_for_team_headquarters_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Manage Headquarters Ownership"
+ },
+ {
+  "actor": "Player",
+  "story": "Set Up Alternate Headquarters Array",
+  "path": "story_tests/equip-hero/design-headquarters/manage-headquarters-ownership/set-up-alternate-headquarters-array/set_up_alternate_headquarters_array_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Manage Headquarters Ownership"
+ },
+ {
+  "actor": "System",
+  "story": "Allow Rebuild of Destroyed Headquarters",
+  "path": "story_tests/equip-hero/design-headquarters/manage-headquarters-ownership/allow-rebuild-of-destroyed-headquarters/allow_rebuild_of_destroyed_headquarters_story.test.md",
+  "map_path": "Equip Hero > Design Headquarters > Manage Headquarters Ownership"
+ },
+ {
+  "actor": "Player",
+  "story": "Acquire Minion Advantage for Construct",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/acquire-minion-advantage-for-construct/acquire_minion_advantage_for_construct_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "Player",
+  "story": "Choose Construct Ability Profile",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/choose-construct-ability-profile/choose_construct_ability_profile_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "System",
+  "story": "Set Construct Stamina to None",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/set-construct-stamina-to-none/set_construct_stamina_to_none_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "System",
+  "story": "Grant Construct Immunity to Fortitude Effects",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/grant-construct-immunity-to-fortitude-effects/grant_construct_immunity_to_fortitude_effects_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Construct Powers Skills and Advantages",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/assign-construct-powers-skills-and-advantages/assign_construct_powers_skills_and_advantages_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "System",
+  "story": "Verify Zero Net Cost for Standard Construct Traits",
+  "path": "story_tests/equip-hero/build-construct/create-construct-character/verify-zero-net-cost-for-standard-construct-traits/verify_zero_net_cost_for_standard_construct_traits_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Create Construct Character"
+ },
+ {
+  "actor": "Player",
+  "story": "Issue Order to Construct on Move Action",
+  "path": "story_tests/equip-hero/build-construct/operate-construct/issue-order-to-construct-on-move-action/issue_order_to_construct_on_move_action_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Operate Construct"
+ },
+ {
+  "actor": "System",
+  "story": "Execute Last Order When No New Command Given",
+  "path": "story_tests/equip-hero/build-construct/operate-construct/execute-last-order-when-no-new-command-given/execute_last_order_when_no_new_command_given_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Operate Construct"
+ },
+ {
+  "actor": "Player",
+  "story": "Repair Damaged Construct with Technology Check",
+  "path": "story_tests/equip-hero/build-construct/operate-construct/repair-damaged-construct-with-technology-check/repair_damaged_construct_with_technology_check_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Operate Construct"
+ },
+ {
+  "actor": "System",
+  "story": "Block Construct Recovery Without Repair",
+  "path": "story_tests/equip-hero/build-construct/operate-construct/block-construct-recovery-without-repair/block_construct_recovery_without_repair_story.test.md",
+  "map_path": "Equip Hero > Build Construct > Operate Construct"
+ }
+]

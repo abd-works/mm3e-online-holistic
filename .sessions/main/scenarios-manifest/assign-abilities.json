@@ -1,0 +1,86 @@
+[
+ {
+  "actor": "Player",
+  "story": "Set Ability Rank",
+  "path": "story_tests/assign-abilities/configure-ability-scores/set-ability-rank/set_ability_rank_story.test.md",
+  "map_path": "Assign Abilities > Configure Ability Scores"
+ },
+ {
+  "actor": "Player",
+  "story": "Designate Ability Rank Portion as Enhanced",
+  "path": "story_tests/assign-abilities/configure-ability-scores/designate-ability-rank-portion-as-enhanced/designate_ability_rank_portion_as_enhanced_story.test.md",
+  "map_path": "Assign Abilities > Configure Ability Scores"
+ },
+ {
+  "actor": "System",
+  "story": "Cascade Trait Changes on Ability Rank Alteration",
+  "path": "story_tests/assign-abilities/configure-ability-scores/cascade-trait-changes-on-ability-rank-alteration/cascade_trait_changes_on_ability_rank_alteration_story.test.md",
+  "map_path": "Assign Abilities > Configure Ability Scores"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Ability Rank Ceiling per Power Level",
+  "path": "story_tests/assign-abilities/configure-ability-scores/enforce-ability-rank-ceiling-per-power-level/enforce_ability_rank_ceiling_per_power_level_story.test.md",
+  "map_path": "Assign Abilities > Configure Ability Scores"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Base Defense Rank from Ability",
+  "path": "story_tests/assign-abilities/configure-derived-defenses/derive-base-defense-rank-from-ability/derive_base_defense_rank_from_ability_story.test.md",
+  "map_path": "Assign Abilities > Configure Derived Defenses"
+ },
+ {
+  "actor": "Player",
+  "story": "Increase Defense Rank Above Ability Base",
+  "path": "story_tests/assign-abilities/configure-derived-defenses/increase-defense-rank-above-ability-base/increase_defense_rank_above_ability_base_story.test.md",
+  "map_path": "Assign Abilities > Configure Derived Defenses"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Toughness Increase Restriction",
+  "path": "story_tests/assign-abilities/configure-derived-defenses/enforce-toughness-increase-restriction/enforce_toughness_increase_restriction_story.test.md",
+  "map_path": "Assign Abilities > Configure Derived Defenses"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Initiative Modifier from Agility",
+  "path": "story_tests/assign-abilities/configure-derived-defenses/derive-initiative-modifier-from-agility/derive_initiative_modifier_from_agility_story.test.md",
+  "map_path": "Assign Abilities > Configure Derived Defenses"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Absent Ability Capability Restrictions",
+  "path": "story_tests/assign-abilities/handle-absent-ability/apply-absent-ability-capability-restrictions/apply_absent_ability_capability_restrictions_story.test.md",
+  "map_path": "Assign Abilities > Handle Absent Ability"
+ },
+ {
+  "actor": "System",
+  "story": "Grant Bonus Power Points for Absent Ability",
+  "path": "story_tests/assign-abilities/handle-absent-ability/grant-bonus-power-points-for-absent-ability/grant_bonus_power_points_for_absent_ability_story.test.md",
+  "map_path": "Assign Abilities > Handle Absent Ability"
+ },
+ {
+  "actor": "GM",
+  "story": "Authorize Hero to Have Absent Ability",
+  "path": "story_tests/assign-abilities/handle-absent-ability/authorize-hero-to-have-absent-ability/authorize_hero_to_have_absent_ability_story.test.md",
+  "map_path": "Assign Abilities > Handle Absent Ability"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Debilitated Ability Condition Effects",
+  "path": "story_tests/assign-abilities/handle-debilitated-ability/apply-debilitated-ability-condition-effects/apply_debilitated_ability_condition_effects_story.test.md",
+  "map_path": "Assign Abilities > Handle Debilitated Ability"
+ },
+ {
+  "actor": "System",
+  "story": "Prevent Further Rank Reduction When Debilitated",
+  "path": "story_tests/assign-abilities/handle-debilitated-ability/prevent-further-rank-reduction-when-debilitated/prevent_further_rank_reduction_when_debilitated_story.test.md",
+  "map_path": "Assign Abilities > Handle Debilitated Ability"
+ },
+ {
+  "actor": "System",
+  "story": "Clear Debilitated State When Ability Rank Recovers",
+  "path": "story_tests/assign-abilities/handle-debilitated-ability/clear-debilitated-state-when-ability-rank-recovers/clear_debilitated_state_when_ability_rank_recovers_story.test.md",
+  "map_path": "Assign Abilities > Handle Debilitated Ability"
+ }
+]

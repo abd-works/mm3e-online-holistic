@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 13
+    "version": 15
   },
   "practices": {
     "stories": {
@@ -17,8 +17,8 @@
         },
         "scenarios": {
           "formats": [
-            "python",
-            "markdown"
+            "markdown",
+            "typescript"
           ]
         }
       }

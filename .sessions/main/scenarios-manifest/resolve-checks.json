@@ -1,0 +1,92 @@
+[
+ {
+  "actor": "Player",
+  "story": "Make Trait Check",
+  "path": "story_tests/resolve-checks/make-check/make-trait-check/make_trait_check_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "System",
+  "story": "Grade Check Result by Degree",
+  "path": "story_tests/resolve-checks/make-check/grade-check-result-by-degree/grade_check_result_by_degree_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Opposed Check Against Opponent",
+  "path": "story_tests/resolve-checks/make-check/make-opposed-check-against-opponent/make_opposed_check_against_opponent_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Comparison Check Without Roll",
+  "path": "story_tests/resolve-checks/make-check/resolve-comparison-check-without-roll/resolve_comparison_check_without_roll_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Resistance Check Against Effect",
+  "path": "story_tests/resolve-checks/make-check/make-resistance-check-against-effect/make_resistance_check_against_effect_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "Player",
+  "story": "Perform Routine Check",
+  "path": "story_tests/resolve-checks/make-check/perform-routine-check/perform_routine_check_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "Player",
+  "story": "Lead Team Check with Helpers",
+  "path": "story_tests/resolve-checks/make-check/lead-team-check-with-helpers/lead_team_check_with_helpers_story.test.md",
+  "map_path": "Resolve Checks > Make Check"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Condition to Character",
+  "path": "story_tests/resolve-checks/apply-conditions/apply-condition-to-character/apply_condition_to_character_story.test.md",
+  "map_path": "Resolve Checks > Apply Conditions"
+ },
+ {
+  "actor": "System",
+  "story": "Supersede Condition in Chain",
+  "path": "story_tests/resolve-checks/apply-conditions/supersede-condition-in-chain/supersede_condition_in_chain_story.test.md",
+  "map_path": "Resolve Checks > Apply Conditions"
+ },
+ {
+  "actor": "Player",
+  "story": "Roll Resistance Check Against Ongoing Effect to Remove Conditions",
+  "path": "story_tests/resolve-checks/recover-from-conditions/roll-resistance-check-against-ongoing-effect-to-remove-conditions/roll_resistance_check_against_ongoing_effect_to_remove_conditions_story.test.md",
+  "map_path": "Resolve Checks > Recover from Conditions"
+ },
+ {
+  "actor": "System",
+  "story": "Remove Condition When Source Effect Ends",
+  "path": "story_tests/resolve-checks/recover-from-conditions/remove-condition-when-source-effect-ends/remove_condition_when_source_effect_ends_story.test.md",
+  "map_path": "Resolve Checks > Recover from Conditions"
+ },
+ {
+  "actor": "Player",
+  "story": "Roll Fortitude Check to Stabilize While Dying",
+  "path": "story_tests/resolve-checks/recover-from-conditions/roll-fortitude-check-to-stabilize-while-dying/roll_fortitude_check_to_stabilize_while_dying_story.test.md",
+  "map_path": "Resolve Checks > Recover from Conditions"
+ },
+ {
+  "actor": "Player",
+  "story": "Stabilize Dying Ally with Treatment Check",
+  "path": "story_tests/resolve-checks/recover-from-conditions/stabilize-dying-ally-with-treatment-check/stabilize_dying_ally_with_treatment_check_story.test.md",
+  "map_path": "Resolve Checks > Recover from Conditions"
+ },
+ {
+  "actor": "System",
+  "story": "Translate Trait Rank to Real-World Value",
+  "path": "story_tests/resolve-checks/translate-rank-to-measure/translate-trait-rank-to-real-world-value/translate_trait_rank_to_real_world_value_story.test.md",
+  "map_path": "Resolve Checks > Translate Rank to Measure"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Measurement from Rank Formula",
+  "path": "story_tests/resolve-checks/translate-rank-to-measure/derive-measurement-from-rank-formula/derive_measurement_from_rank_formula_story.test.md",
+  "map_path": "Resolve Checks > Translate Rank to Measure"
+ }
+]

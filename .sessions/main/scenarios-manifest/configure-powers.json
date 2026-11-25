@@ -1,0 +1,656 @@
+[
+ {
+  "actor": "Player",
+  "story": "Select Affliction Effect and Configure Condition Set",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-affliction-effect-and-configure-condition-set/select_affliction_effect_and_configure_condition_set_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Damage Effect for Close Combat",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-damage-effect-for-close-combat/select_damage_effect_for_close_combat_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Blast Effect for Ranged Energy Attack",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-blast-effect-for-ranged-energy-attack/select_blast_effect_for_ranged_energy_attack_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Deflect Effect for Ranged Protection",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-deflect-effect-for-ranged-protection/select_deflect_effect_for_ranged_protection_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Nullify Effect and Define Target Descriptor",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-nullify-effect-and-define-target-descriptor/select_nullify_effect_and_define_target_descriptor_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Weaken Effect and Define Target Trait",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/select-attack-effect/select-weaken-effect-and-define-target-trait/select_weaken_effect_and_define_target_trait_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Select Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Affliction Resistance Check and Apply Condition Degree",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/resolve-affliction-resistance-check-and-apply-condition-degree/resolve_affliction_resistance_check_and_apply_condition_degree_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Recover from Affliction Condition at End of Turn",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/recover-from-affliction-condition-at-end-of-turn/recover_from_affliction_condition_at_end_of_turn_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Damage Resistance Check and Apply Damage Condition",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/resolve-damage-resistance-check-and-apply-damage-condition/resolve_damage_resistance_check_and_apply_damage_condition_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Weaken Resistance Check and Reduce Target Trait",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/resolve-weaken-resistance-check-and-reduce-target-trait/resolve_weaken_resistance_check_and_reduce_target_trait_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Recover Weakened Trait at One Point per Round",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/recover-weakened-trait-at-one-point-per-round/recover_weakened_trait_at_one_point_per_round_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Nullify Opposed Check Against Target Effect Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-attack-effect/resolve-attack-effect/resolve-nullify-opposed-check-against-target-effect-rank/resolve_nullify_opposed_check_against_target_effect_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Attack Effect > Resolve Attack Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Protection Effect for Toughness Bonus",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/select-protection-effect-for-toughness-bonus/select_protection_effect_for_toughness_bonus_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Immunity Effect and Define Covered Effect Set",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/select-immunity-effect-and-define-covered-effect-set/select_immunity_effect_and_define_covered_effect_set_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Configure Partial Immunity for Half-Effect Protection",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/configure-partial-immunity-for-half-effect-protection/configure_partial_immunity_for_half_effect_protection_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Regeneration Effect for Progressive Damage Recovery",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/select-regeneration-effect-for-progressive-damage-recovery/select_regeneration_effect_for_progressive_damage_recovery_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Immortality Effect for Death Recovery",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/select-immortality-effect-for-death-recovery/select_immortality_effect_for_death_recovery_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Immunity Check Against Matching Power Descriptor",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/apply-immunity-check-against-matching-power-descriptor/apply_immunity_check_against_matching_power_descriptor_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Remove Toughness Penalty via Regeneration Recovery Phase",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/remove-toughness-penalty-via-regeneration-recovery-phase/remove_toughness_penalty_via_regeneration_recovery_phase_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Remove Damage Condition via Regeneration Condition Phase",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/remove-damage-condition-via-regeneration-condition-phase/remove_damage_condition_via_regeneration_condition_phase_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Recover from Death via Immortality After Time Elapses",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-defense-effect/recover-from-death-via-immortality-after-time-elapses/recover_from_death_via_immortality_after_time_elapses_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Defense Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Flight Effect for Aerial Movement",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-flight-effect-for-aerial-movement/select_flight_effect_for_aerial_movement_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Speed Effect for Ground Velocity Enhancement",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-speed-effect-for-ground-velocity-enhancement/select_speed_effect_for_ground_velocity_enhancement_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Burrowing Effect for Underground Movement",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-burrowing-effect-for-underground-movement/select_burrowing_effect_for_underground_movement_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Swimming Effect for Aquatic Movement",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-swimming-effect-for-aquatic-movement/select_swimming_effect_for_aquatic_movement_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Leaping Effect for Extended Jumping",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-leaping-effect-for-extended-jumping/select_leaping_effect_for_extended_jumping_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Teleport Effect for Instantaneous Relocation",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-teleport-effect-for-instantaneous-relocation/select_teleport_effect_for_instantaneous_relocation_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Movement Effect and Choose Special Movement Mode",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/select-mobility-effect/select-movement-effect-and-choose-special-movement-mode/select_movement_effect_and_choose_special_movement_mode_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Select Mobility Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Flight Speed Rank from Effect Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/calculate-movement-from-mobility-effect/calculate-flight-speed-rank-from-effect-rank/calculate_flight_speed_rank_from_effect_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Calculate Movement from Mobility Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Burrowing Speed Rank with Terrain Penalty",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/calculate-movement-from-mobility-effect/calculate-burrowing-speed-rank-with-terrain-penalty/calculate_burrowing_speed_rank_with_terrain_penalty_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Calculate Movement from Mobility Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Jump Distance Rank from Leaping Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/calculate-movement-from-mobility-effect/calculate-jump-distance-rank-from-leaping-rank/calculate_jump_distance_rank_from_leaping_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Calculate Movement from Mobility Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Validate Teleport Destination as Known or Accurately Sensed",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-mobility-effect/calculate-movement-from-mobility-effect/validate-teleport-destination-as-known-or-accurately-sensed/validate_teleport_destination_as_known_or_accurately_sensed_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Mobility Effect > Calculate Movement from Mobility Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Senses Effect and Allocate Sense Enhancements",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-senses-effect-and-allocate-sense-enhancements/select_senses_effect_and_allocate_sense_enhancements_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Concealment Effect and Choose Hidden Sense Type",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-concealment-effect-and-choose-hidden-sense-type/select_concealment_effect_and_choose_hidden_sense_type_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Remote Sensing Effect for Displaced Perception",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-remote-sensing-effect-for-displaced-perception/select_remote_sensing_effect_for_displaced_perception_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Mind Reading Effect for Mental Contact",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-mind-reading-effect-for-mental-contact/select_mind_reading_effect_for_mental_contact_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Communication Effect and Choose Sense Type Medium",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-communication-effect-and-choose-sense-type-medium/select_communication_effect_and_choose_sense_type_medium_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Comprehend Effect and Choose Communication Type",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/select-sensory-effect/select-comprehend-effect-and-choose-communication-type/select_comprehend_effect_and_choose_communication_type_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Select Sensory Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Grant Total Concealment Against Chosen Sense Type",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/resolve-sensory-effect/grant-total-concealment-against-chosen-sense-type/grant_total_concealment_against_chosen_sense_type_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Resolve Sensory Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Suppress Normal Senses During Remote Sensing",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/resolve-sensory-effect/suppress-normal-senses-during-remote-sensing/suppress_normal_senses_during_remote_sensing_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Resolve Sensory Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Mark Character as Vulnerable During Remote Sensing",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/resolve-sensory-effect/mark-character-as-vulnerable-during-remote-sensing/mark_character_as_vulnerable_during_remote_sensing_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Resolve Sensory Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Mind Reading Opposed Check Against Will Defense",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/resolve-sensory-effect/resolve-mind-reading-opposed-check-against-will-defense/resolve_mind_reading_opposed_check_against_will_defense_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Resolve Sensory Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Break Mind Reading Contact on Target Will Check Success",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-sensory-effect/resolve-sensory-effect/break-mind-reading-contact-on-target-will-check-success/break_mind_reading_contact_on_target_will_check_success_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Sensory Effect > Resolve Sensory Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Create Effect and Set Volume Parameters",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-create-effect-and-set-volume-parameters/select_create_effect_and_set_volume_parameters_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Move Object Effect for Telekinetic Manipulation",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-move-object-effect-for-telekinetic-manipulation/select_move_object_effect_for_telekinetic_manipulation_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Environment Effect and Choose Environmental Changes",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-environment-effect-and-choose-environmental-changes/select_environment_effect_and_choose_environmental_changes_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Illusion Effect and Choose Sense Type Coverage",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-illusion-effect-and-choose-sense-type-coverage/select_illusion_effect_and_choose_sense_type_coverage_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Luck Control Effect and Define Hero Point Capability",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-luck-control-effect-and-define-hero-point-capability/select_luck_control_effect_and_define_hero_point_capability_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Summon Effect and Define Minion Parameters",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-summon-effect-and-define-minion-parameters/select_summon_effect_and_define_minion_parameters_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Transform Effect and Set Transformation Scope",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/select-control-effect/select-transform-effect-and-set-transformation-scope/select_transform_effect_and_set_transformation_scope_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Select Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Created Object Volume and Toughness from Effect Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/enforce-created-object-volume-and-toughness-from-effect-rank/enforce_created_object_volume_and_toughness_from_effect_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Dissolve Created Object When Effect is Not Maintained",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/dissolve-created-object-when-effect-is-not-maintained/dissolve_created_object_when_effect_is_not_maintained_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Move Object Strength Check for Resisting Targets",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/resolve-move-object-strength-check-for-resisting-targets/resolve_move_object_strength_check_for_resisting_targets_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Insight Check to Detect Illusion",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/resolve-insight-check-to-detect-illusion/resolve_insight_check_to_detect_illusion_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Summon Dazed Condition on Minion Arrival",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/apply-summon-dazed-condition-on-minion-arrival/apply_summon_dazed_condition_on_minion_arrival_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Dismiss Summon When Minion is Incapacitated",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/dismiss-summon-when-minion-is-incapacitated/dismiss_summon_when_minion_is_incapacitated_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Transform Fortitude Resistance for Living Targets",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/resolve-transform-fortitude-resistance-for-living-targets/resolve_transform_fortitude_resistance_for_living_targets_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Revert Transformation When Sustained Effect Ends",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-control-effect/resolve-control-effect/revert-transformation-when-sustained-effect-ends/revert_transformation_when_sustained_effect_ends_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure Control Effect > Resolve Control Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Variable Effect and Define Effect Type Pool",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-variable-effect-and-define-effect-type-pool/select_variable_effect_and_define_effect_type_pool_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Growth Effect for Physical Size Increase",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-growth-effect-for-physical-size-increase/select_growth_effect_for_physical_size_increase_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Shrinking Effect for Physical Size Reduction",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-shrinking-effect-for-physical-size-reduction/select_shrinking_effect_for_physical_size_reduction_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Insubstantial Effect and Choose Physical Form",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-insubstantial-effect-and-choose-physical-form/select_insubstantial_effect_and_choose_physical_form_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Enhanced Trait Effect and Choose Target Trait",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-enhanced-trait-effect-and-choose-target-trait/select_enhanced_trait_effect_and_choose_target_trait_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Healing Effect for Damage Condition Removal",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-healing-effect-for-damage-condition-removal/select_healing_effect_for_damage_condition_removal_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Elongation Effect for Extended Reach",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-elongation-effect-for-extended-reach/select_elongation_effect_for_extended_reach_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Quickness Effect for Task Time Reduction",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-quickness-effect-for-task-time-reduction/select_quickness_effect_for_task_time_reduction_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "Player",
+  "story": "Select Feature Effect and Define Minor Game Capability",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/select-general-effect/select-feature-effect-and-define-minor-game-capability/select_feature_effect_and_define_minor_game_capability_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Select General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Growth Ability and Size Bonuses and Penalties per Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/apply-growth-ability-and-size-bonuses-and-penalties-per-rank/apply_growth_ability_and_size_bonuses_and_penalties_per_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Shrinking Defense and Stealth Bonuses and Penalties per Rank",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/apply-shrinking-defense-and-stealth-bonuses-and-penalties-per-rank/apply_shrinking_defense_and_stealth_bonuses_and_penalties_per_rank_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Variable Pool Size as Rank Times Five Points",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/enforce-variable-pool-size-as-rank-times-five-points/enforce_variable_pool_size_as_rank_times_five_points_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce PL Limits on Variable-Built Effects",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/enforce-pl-limits-on-variable-built-effects/enforce_pl_limits_on_variable_built_effects_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Healing Check and Remove Damage Condition from Most Severe",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/apply-healing-check-and-remove-damage-condition-from-most-severe/apply_healing_check_and_remove_damage_condition_from_most_severe_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Block Healing Reuse on Same Target Within Scene",
+  "path": "story_tests/configure-powers/configure-power-effects/configure-general-effect/resolve-general-effect/block-healing-reuse-on-same-target-within-scene/block_healing_reuse_on_same_target_within_scene_story.test.md",
+  "map_path": "Configure Powers > Configure Power Effects > Configure General Effect > Resolve General Effect"
+ },
+ {
+  "actor": "System",
+  "story": "Set Default Action, Range, Duration for Effect Type",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/set-cost-per-rank/set-default-action-range-duration-for-effect-type/set_default_action_range_duration_for_effect_type_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Set Cost per Rank"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Base Cost per Rank from Effect Definition",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/set-cost-per-rank/calculate-base-cost-per-rank-from-effect-definition/calculate_base_cost_per_rank_from_effect_definition_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Set Cost per Rank"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Per-Rank Extra to Raise Cost per Rank",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/set-cost-per-rank/apply-per-rank-extra-to-raise-cost-per-rank/apply_per_rank_extra_to_raise_cost_per_rank_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Set Cost per Rank"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Per-Rank Flaw to Lower Cost per Rank",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/set-cost-per-rank/apply-per-rank-flaw-to-lower-cost-per-rank/apply_per_rank_flaw_to_lower_cost_per_rank_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Set Cost per Rank"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Minimum One Point per Rank Floor After Flaws",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/set-cost-per-rank/enforce-minimum-one-point-per-rank-floor-after-flaws/enforce_minimum_one_point_per_rank_floor_after_flaws_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Set Cost per Rank"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Area Extra to Replace Attack Check with Dodge Save",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/extend-effect-to-area-or-multiple-targets/apply-area-extra-to-replace-attack-check-with-dodge-save/apply_area_extra_to_replace_attack_check_with_dodge_save_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Extend Effect to Area or Multiple Targets"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Area Dodge Save DC as Ten Plus Effect Rank",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/extend-effect-to-area-or-multiple-targets/apply-area-dodge-save-dc-as-ten-plus-effect-rank/apply_area_dodge_save_dc_as_ten_plus_effect_rank_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Extend Effect to Area or Multiple Targets"
+ },
+ {
+  "actor": "System",
+  "story": "Reduce Area Effect to Half Rank on Dodge Save Success",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/extend-effect-to-area-or-multiple-targets/reduce-area-effect-to-half-rank-on-dodge-save-success/reduce_area_effect_to_half_rank_on_dodge_save_success_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Extend Effect to Area or Multiple Targets"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Multiattack Extra for Multiple Target Coverage",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/extend-effect-to-area-or-multiple-targets/apply-multiattack-extra-for-multiple-target-coverage/apply_multiattack_extra_for_multiple_target_coverage_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Extend Effect to Area or Multiple Targets"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Multiattack Bonus DC on Multiple Success Degrees",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-per-rank-modifiers/extend-effect-to-area-or-multiple-targets/apply-multiattack-bonus-dc-on-multiple-success-degrees/apply_multiattack_bonus_dc_on_multiple_success_degrees_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Per-Rank Modifiers > Extend Effect to Area or Multiple Targets"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Accurate Extra for Attack Check Bonus",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-accurate-extra-for-attack-check-bonus/apply_accurate_extra_for_attack_check_bonus_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Penetrating Extra to Overcome Impervious Defense",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-penetrating-extra-to-overcome-impervious-defense/apply_penetrating_extra_to_overcome_impervious_defense_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Activation Flaw to Require Power Preparation",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-activation-flaw-to-require-power-preparation/apply_activation_flaw_to_require_power_preparation_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Check Required Flaw to Gate Effect on Skill Check",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-check-required-flaw-to-gate-effect-on-skill-check/apply_check_required_flaw_to_gate_effect_on_skill_check_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Limited Flaw to Restrict Effect Circumstances",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-limited-flaw-to-restrict-effect-circumstances/apply_limited_flaw_to_restrict_effect_circumstances_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Removable Flaw to Convert Power to Device",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/choose-flat-modifiers/apply-removable-flaw-to-convert-power-to-device/apply_removable_flaw_to_convert_power_to_device_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Choose Flat Modifiers"
+ },
+ {
+  "actor": "System",
+  "story": "Calculate Final Power Cost with Flat Modifier Adjustments",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/calculate-final-power-cost-with-flat-modifier-adjustments/calculate_final_power_cost_with_flat_modifier_adjustments_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Minimum One Point Total Power Cost After Flat Flaws",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/enforce-minimum-one-point-total-power-cost-after-flat-flaws/enforce_minimum_one_point_total_power_cost_after_flat_flaws_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Penetrating Rank Against Impervious Toughness Threshold",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/apply-penetrating-rank-against-impervious-toughness-threshold/apply_penetrating_rank_against_impervious_toughness_threshold_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "System",
+  "story": "Require Activation Action Before Power Effects Become Available",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/require-activation-action-before-power-effects-become-available/require_activation_action_before_power_effects_become_available_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "System",
+  "story": "Gate Effect Activation on Check Required Skill Check Success",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/gate-effect-activation-on-check-required-skill-check-success/gate_effect_activation_on_check_required_skill_check_success_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "System",
+  "story": "Allow Removal of Device When Character is Stunned and Defenseless",
+  "path": "story_tests/configure-powers/apply-power-modifiers/apply-flat-modifiers/enforce-flat-modifier-rules/allow-removal-of-device-when-character-is-stunned-and-defenseless/allow_removal_of_device_when_character_is_stunned_and_defenseless_story.test.md",
+  "map_path": "Configure Powers > Apply Power Modifiers > Apply Flat Modifiers > Enforce Flat Modifier Rules"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Origin Descriptor to Power Set",
+  "path": "story_tests/configure-powers/assign-power-descriptors/assign-origin-descriptor-to-power-set/assign_origin_descriptor_to_power_set_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Source Descriptor to Power Effect",
+  "path": "story_tests/configure-powers/assign-power-descriptors/assign-source-descriptor-to-power-effect/assign_source_descriptor_to_power_effect_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "Player",
+  "story": "Assign Result Descriptor to Power Effect",
+  "path": "story_tests/configure-powers/assign-power-descriptors/assign-result-descriptor-to-power-effect/assign_result_descriptor_to_power_effect_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "System",
+  "story": "Match Power Descriptor Against Immunity Effect Coverage",
+  "path": "story_tests/configure-powers/assign-power-descriptors/match-power-descriptor-against-immunity-effect-coverage/match_power_descriptor_against_immunity_effect_coverage_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "System",
+  "story": "Match Power Descriptor Against Nullify Effect Target",
+  "path": "story_tests/configure-powers/assign-power-descriptors/match-power-descriptor-against-nullify-effect-target/match_power_descriptor_against_nullify_effect_target_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "GM",
+  "story": "Approve Descriptor Interaction Between Powers",
+  "path": "story_tests/configure-powers/assign-power-descriptors/approve-descriptor-interaction-between-powers/approve_descriptor_interaction_between_powers_story.test.md",
+  "map_path": "Configure Powers > Assign Power Descriptors"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Power Array with Base Effect",
+  "path": "story_tests/configure-powers/organize-power-arrays/build-power-array-with-base-effect/build_power_array_with_base_effect_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Alternate Effect to Array within Primary Effect Cost Limit",
+  "path": "story_tests/configure-powers/organize-power-arrays/add-alternate-effect-to-array-within-primary-effect-cost-limit/add_alternate_effect_to_array_within_primary_effect_cost_limit_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Dynamic Alternate Effect for Simultaneous Use",
+  "path": "story_tests/configure-powers/organize-power-arrays/add-dynamic-alternate-effect-for-simultaneous-use/add_dynamic_alternate_effect_for_simultaneous_use_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "Player",
+  "story": "Switch Active Effect in Array as Free Action",
+  "path": "story_tests/configure-powers/organize-power-arrays/switch-active-effect-in-array-as-free-action/switch_active_effect_in_array_as_free_action_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Array Mutual Exclusivity Rule for Non-Dynamic Effects",
+  "path": "story_tests/configure-powers/organize-power-arrays/enforce-array-mutual-exclusivity-rule-for-non-dynamic-effects/enforce_array_mutual_exclusivity_rule_for_non_dynamic_effects_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "System",
+  "story": "Propagate Array Disable Equally to All Alternate Effects",
+  "path": "story_tests/configure-powers/organize-power-arrays/propagate-array-disable-equally-to-all-alternate-effects/propagate_array_disable_equally_to_all_alternate_effects_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "System",
+  "story": "Reallocate Power Points Among Dynamic Array Effects per Turn",
+  "path": "story_tests/configure-powers/organize-power-arrays/reallocate-power-points-among-dynamic-array-effects-per-turn/reallocate_power_points_among_dynamic_array_effects_per_turn_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Dynamic Effect Point Total Against Array Pool Size",
+  "path": "story_tests/configure-powers/organize-power-arrays/enforce-dynamic-effect-point-total-against-array-pool-size/enforce_dynamic_effect_point_total_against_array_pool_size_story.test.md",
+  "map_path": "Configure Powers > Organize Power Arrays"
+ }
+]

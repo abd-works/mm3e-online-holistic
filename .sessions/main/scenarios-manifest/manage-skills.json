@@ -1,0 +1,380 @@
+[
+ {
+  "actor": "Player",
+  "story": "Assign Skill Ranks",
+  "path": "story_tests/manage-skills/configure-skill-ranks/assign-skill-ranks/assign_skill_ranks_story.test.md",
+  "map_path": "Manage Skills > Configure Skill Ranks"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Skill Modifier Limit",
+  "path": "story_tests/manage-skills/configure-skill-ranks/enforce-skill-modifier-limit/enforce_skill_modifier_limit_story.test.md",
+  "map_path": "Manage Skills > Configure Skill Ranks"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Skill Check",
+  "path": "story_tests/manage-skills/resolve-skill-checks/make-skill-check/make_skill_check_story.test.md",
+  "map_path": "Manage Skills > Resolve Skill Checks"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Critical Success on Natural 20",
+  "path": "story_tests/manage-skills/resolve-skill-checks/apply-critical-success-on-natural-20/apply_critical_success_on_natural_20_story.test.md",
+  "map_path": "Manage Skills > Resolve Skill Checks"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Untrained Skill Attempt",
+  "path": "story_tests/manage-skills/resolve-skill-checks/resolve-untrained-skill-attempt/resolve_untrained_skill_attempt_story.test.md",
+  "map_path": "Manage Skills > Resolve Skill Checks"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Skill Mastery Routine Result",
+  "path": "story_tests/manage-skills/resolve-skill-checks/apply-skill-mastery-routine-result/apply_skill_mastery_routine_result_story.test.md",
+  "map_path": "Manage Skills > Resolve Skill Checks"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Circumstance Modifier to Skill Check",
+  "path": "story_tests/manage-skills/resolve-skill-checks/apply-circumstance-modifier-to-skill-check/apply_circumstance_modifier_to_skill_check_story.test.md",
+  "map_path": "Manage Skills > Resolve Skill Checks"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Interaction Skill Requirements",
+  "path": "story_tests/manage-skills/use-interaction-skills/enforce-interaction-skill-requirements/enforce_interaction_skill_requirements_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills"
+ },
+ {
+  "actor": "Player",
+  "story": "Bluff Target with Deception",
+  "path": "story_tests/manage-skills/use-interaction-skills/deceive-target-with-deception/bluff-target-with-deception/bluff_target_with_deception_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Deceive Target with Deception"
+ },
+ {
+  "actor": "Player",
+  "story": "Create Disguise with Deception",
+  "path": "story_tests/manage-skills/use-interaction-skills/deceive-target-with-deception/create-disguise-with-deception/create_disguise_with_deception_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Deceive Target with Deception"
+ },
+ {
+  "actor": "Player",
+  "story": "Feint Opponent with Deception",
+  "path": "story_tests/manage-skills/use-interaction-skills/deceive-target-with-deception/feint-opponent-with-deception/feint_opponent_with_deception_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Deceive Target with Deception"
+ },
+ {
+  "actor": "Player",
+  "story": "Send Innuendo Message with Deception",
+  "path": "story_tests/manage-skills/use-interaction-skills/deceive-target-with-deception/send-innuendo-message-with-deception/send_innuendo_message_with_deception_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Deceive Target with Deception"
+ },
+ {
+  "actor": "Player",
+  "story": "Trick Target into Danger with Deception",
+  "path": "story_tests/manage-skills/use-interaction-skills/deceive-target-with-deception/trick-target-into-danger-with-deception/trick_target_into_danger_with_deception_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Deceive Target with Deception"
+ },
+ {
+  "actor": "Player",
+  "story": "Coerce Target with Intimidation",
+  "path": "story_tests/manage-skills/use-interaction-skills/intimidate-target/coerce-target-with-intimidation/coerce_target_with_intimidation_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Intimidate Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Demoralize Opponent with Intimidation",
+  "path": "story_tests/manage-skills/use-interaction-skills/intimidate-target/demoralize-opponent-with-intimidation/demoralize_opponent_with_intimidation_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Intimidate Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Intimidate Group of Minions",
+  "path": "story_tests/manage-skills/use-interaction-skills/intimidate-target/intimidate-group-of-minions/intimidate_group_of_minions_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Intimidate Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Improve NPC Attitude with Persuasion",
+  "path": "story_tests/manage-skills/use-interaction-skills/persuade-target/improve-npc-attitude-with-persuasion/improve_npc_attitude_with_persuasion_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Persuade Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Conduct Opposed Negotiation with Persuasion",
+  "path": "story_tests/manage-skills/use-interaction-skills/persuade-target/conduct-opposed-negotiation-with-persuasion/conduct_opposed_negotiation_with_persuasion_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Persuade Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Resist Interaction Skill with Insight",
+  "path": "story_tests/manage-skills/use-interaction-skills/read-target-with-insight/resist-interaction-skill-with-insight/resist_interaction_skill_with_insight_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Read Target with Insight"
+ },
+ {
+  "actor": "GM",
+  "story": "Detect Illusion Secretly with Insight",
+  "path": "story_tests/manage-skills/use-interaction-skills/read-target-with-insight/detect-illusion-secretly-with-insight/detect_illusion_secretly_with_insight_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Read Target with Insight"
+ },
+ {
+  "actor": "Player",
+  "story": "Detect Outside Influence with Insight",
+  "path": "story_tests/manage-skills/use-interaction-skills/read-target-with-insight/detect-outside-influence-with-insight/detect_outside_influence_with_insight_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Read Target with Insight"
+ },
+ {
+  "actor": "Player",
+  "story": "Evaluate Trustworthiness with Insight",
+  "path": "story_tests/manage-skills/use-interaction-skills/read-target-with-insight/evaluate-trustworthiness-with-insight/evaluate_trustworthiness_with_insight_story.test.md",
+  "map_path": "Manage Skills > Use Interaction Skills > Read Target with Insight"
+ },
+ {
+  "actor": "Player",
+  "story": "Keep Balance on Precarious Surface",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-acrobatics/keep-balance-on-precarious-surface/keep_balance_on_precarious_surface_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Acrobatics"
+ },
+ {
+  "actor": "Player",
+  "story": "Perform Acrobatic Maneuver",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-acrobatics/perform-acrobatic-maneuver/perform_acrobatic_maneuver_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Acrobatics"
+ },
+ {
+  "actor": "Player",
+  "story": "Rise from Prone as Free Action",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-acrobatics/rise-from-prone-as-free-action/rise_from_prone_as_free_action_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Acrobatics"
+ },
+ {
+  "actor": "Player",
+  "story": "Reduce Fall Damage with Tumbling",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-acrobatics/reduce-fall-damage-with-tumbling/reduce_fall_damage_with_tumbling_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Acrobatics"
+ },
+ {
+  "actor": "Player",
+  "story": "Climb Surface with Athletics",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-athletics/climb-surface-with-athletics/climb_surface_with_athletics_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Athletics"
+ },
+ {
+  "actor": "Player",
+  "story": "Jump with Athletics",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-athletics/jump-with-athletics/jump_with_athletics_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Athletics"
+ },
+ {
+  "actor": "Player",
+  "story": "Sprint to Increase Speed",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-athletics/sprint-to-increase-speed/sprint_to_increase_speed_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Athletics"
+ },
+ {
+  "actor": "Player",
+  "story": "Swim with Athletics",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-athletics/swim-with-athletics/swim_with_athletics_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Athletics"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Fall Damage to Character",
+  "path": "story_tests/manage-skills/use-physical-skills/move-with-athletics/apply-fall-damage-to-character/apply_fall_damage_to_character_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Move with Athletics"
+ },
+ {
+  "actor": "Player",
+  "story": "Hide from Observer with Stealth",
+  "path": "story_tests/manage-skills/use-physical-skills/evade-notice-with-stealth/hide-from-observer-with-stealth/hide_from_observer_with_stealth_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Evade Notice with Stealth"
+ },
+ {
+  "actor": "Player",
+  "story": "Tail Subject Undetected with Stealth",
+  "path": "story_tests/manage-skills/use-physical-skills/evade-notice-with-stealth/tail-subject-undetected-with-stealth/tail_subject_undetected_with_stealth_story.test.md",
+  "map_path": "Manage Skills > Use Physical Skills > Evade Notice with Stealth"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Close Combat Rank to Attack Check",
+  "path": "story_tests/manage-skills/use-combat-skills/add-close-combat-rank-to-attack-check/add_close_combat_rank_to_attack_check_story.test.md",
+  "map_path": "Manage Skills > Use Combat Skills"
+ },
+ {
+  "actor": "Player",
+  "story": "Add Ranged Combat Rank to Attack Check",
+  "path": "story_tests/manage-skills/use-combat-skills/add-ranged-combat-rank-to-attack-check/add_ranged_combat_rank_to_attack_check_story.test.md",
+  "map_path": "Manage Skills > Use Combat Skills"
+ },
+ {
+  "actor": "Player",
+  "story": "Operate Vehicle Under Stress",
+  "path": "story_tests/manage-skills/use-manipulation-skills/operate-vehicle-under-stress/operate_vehicle_under_stress_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills"
+ },
+ {
+  "actor": "Player",
+  "story": "Conceal Object on Person with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/conceal-object-on-person-with-sleight-of-hand/conceal_object_on_person_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Escape Restraints with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/escape-restraints-with-sleight-of-hand/escape_restraints_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Perform Legerdemain with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/perform-legerdemain-with-sleight-of-hand/perform_legerdemain_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Plant Object on Person with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/plant-object-on-person-with-sleight-of-hand/plant_object_on_person_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Steal Object from Person with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/steal-object-from-person-with-sleight-of-hand/steal_object_from_person_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Contort Through Tight Space with Sleight of Hand",
+  "path": "story_tests/manage-skills/use-manipulation-skills/manipulate-objects-with-sleight-of-hand/contort-through-tight-space-with-sleight-of-hand/contort_through_tight_space_with_sleight_of_hand_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Manipulate Objects with Sleight of Hand"
+ },
+ {
+  "actor": "Player",
+  "story": "Operate Unfamiliar Technological Device",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/operate-unfamiliar-technological-device/operate_unfamiliar_technological_device_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Build Technological Item",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/build-technological-item/build_technological_item_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Repair Damaged Technological Item",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/repair-damaged-technological-item/repair_damaged_technological_item_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Perform Jury-Rig Repair",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/perform-jury-rig-repair/perform_jury_rig_repair_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Place Demolitions Charge with Technology",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/place-demolitions-charge-with-technology/place_demolitions_charge_with_technology_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Defeat Security Device with Technology",
+  "path": "story_tests/manage-skills/use-manipulation-skills/work-devices-with-technology/defeat-security-device-with-technology/defeat_security_device_with_technology_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Work Devices with Technology"
+ },
+ {
+  "actor": "Player",
+  "story": "Diagnose Injuries and Ailments",
+  "path": "story_tests/manage-skills/use-manipulation-skills/care-for-patients-with-treatment/diagnose-injuries-and-ailments/diagnose_injuries_and_ailments_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Care for Patients with Treatment"
+ },
+ {
+  "actor": "Player",
+  "story": "Provide Long-Term Patient Care",
+  "path": "story_tests/manage-skills/use-manipulation-skills/care-for-patients-with-treatment/provide-long-term-patient-care/provide_long_term_patient_care_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Care for Patients with Treatment"
+ },
+ {
+  "actor": "Player",
+  "story": "Revive Dazed or Stunned Character",
+  "path": "story_tests/manage-skills/use-manipulation-skills/care-for-patients-with-treatment/revive-dazed-or-stunned-character/revive_dazed_or_stunned_character_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Care for Patients with Treatment"
+ },
+ {
+  "actor": "Player",
+  "story": "Stabilize Dying Character with Treatment",
+  "path": "story_tests/manage-skills/use-manipulation-skills/care-for-patients-with-treatment/stabilize-dying-character-with-treatment/stabilize_dying_character_with_treatment_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Care for Patients with Treatment"
+ },
+ {
+  "actor": "Player",
+  "story": "Treat Disease or Poison",
+  "path": "story_tests/manage-skills/use-manipulation-skills/care-for-patients-with-treatment/treat-disease-or-poison/treat_disease_or_poison_story.test.md",
+  "map_path": "Manage Skills > Use Manipulation Skills > Care for Patients with Treatment"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Professional Expertise",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/apply-expertise-knowledge/apply-professional-expertise/apply_professional_expertise_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Apply Expertise Knowledge"
+ },
+ {
+  "actor": "GM",
+  "story": "Resolve Expert Knowledge Check Secretly",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/apply-expertise-knowledge/resolve-expert-knowledge-check-secretly/resolve_expert_knowledge_check_secretly_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Apply Expertise Knowledge"
+ },
+ {
+  "actor": "Player",
+  "story": "Search Area for Clues with Investigation",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/investigate-subject/search-area-for-clues-with-investigation/search_area_for_clues_with_investigation_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Investigate Subject"
+ },
+ {
+  "actor": "Player",
+  "story": "Collect Physical Evidence with Investigation",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/investigate-subject/collect-physical-evidence-with-investigation/collect_physical_evidence_with_investigation_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Investigate Subject"
+ },
+ {
+  "actor": "Player",
+  "story": "Analyze Collected Evidence",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/investigate-subject/analyze-collected-evidence/analyze_collected_evidence_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Investigate Subject"
+ },
+ {
+  "actor": "Player",
+  "story": "Gather Information through Contacts",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/investigate-subject/gather-information-through-contacts/gather_information_through_contacts_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Investigate Subject"
+ },
+ {
+  "actor": "Player",
+  "story": "Conduct Surveillance on Subject",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/investigate-subject/conduct-surveillance-on-subject/conduct_surveillance_on_subject_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Investigate Subject"
+ },
+ {
+  "actor": "GM",
+  "story": "Make Secret Perception Check for Character",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/perceive-surroundings/make-secret-perception-check-for-character/make_secret_perception_check_for_character_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Perceive Surroundings"
+ },
+ {
+  "actor": "Player",
+  "story": "Detect Disguise with Perception",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/perceive-surroundings/detect-disguise-with-perception/detect_disguise_with_perception_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Perceive Surroundings"
+ },
+ {
+  "actor": "Player",
+  "story": "Notice Concealed Object with Perception",
+  "path": "story_tests/manage-skills/use-knowledge-and-awareness-skills/perceive-surroundings/notice-concealed-object-with-perception/notice_concealed_object_with_perception_story.test.md",
+  "map_path": "Manage Skills > Use Knowledge and Awareness Skills > Perceive Surroundings"
+ }
+]

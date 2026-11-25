@@ -1,0 +1,434 @@
+[
+ {
+  "actor": "System",
+  "story": "Roll Initiative Check",
+  "path": "story_tests/conduct-combat/manage-turn-order/roll-initiative-check/roll_initiative_check_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "System",
+  "story": "Determine Turn Order from Initiative Results",
+  "path": "story_tests/conduct-combat/manage-turn-order/determine-turn-order-from-initiative-results/determine_turn_order_from_initiative_results_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "System",
+  "story": "Break Initiative Ties by Dodge then Agility",
+  "path": "story_tests/conduct-combat/manage-turn-order/break-initiative-ties-by-dodge-then-agility/break_initiative_ties_by_dodge_then_agility_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "GM",
+  "story": "Roll Single Initiative for Minion Group",
+  "path": "story_tests/conduct-combat/manage-turn-order/roll-single-initiative-for-minion-group/roll_single_initiative_for_minion_group_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "Player",
+  "story": "Enter Conflict Mid-Round",
+  "path": "story_tests/conduct-combat/manage-turn-order/enter-conflict-mid-round/enter_conflict_mid_round_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "Player",
+  "story": "Delay Turn to Later Initiative Position",
+  "path": "story_tests/conduct-combat/manage-turn-order/delay-turn-to-later-initiative-position/delay_turn_to_later_initiative_position_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "Player",
+  "story": "Ready Action for Trigger Condition",
+  "path": "story_tests/conduct-combat/manage-turn-order/ready-action-for-trigger-condition/ready_action_for_trigger_condition_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "Player",
+  "story": "Take Readied Action as Reaction",
+  "path": "story_tests/conduct-combat/manage-turn-order/take-readied-action-as-reaction/take_readied_action_as_reaction_story.test.md",
+  "map_path": "Conduct Combat > Manage Turn Order"
+ },
+ {
+  "actor": "Player",
+  "story": "Take Standard Action on Turn",
+  "path": "story_tests/conduct-combat/manage-action-economy/take-standard-action-on-turn/take_standard_action_on_turn_story.test.md",
+  "map_path": "Conduct Combat > Manage Action Economy"
+ },
+ {
+  "actor": "Player",
+  "story": "Take Move Action on Turn",
+  "path": "story_tests/conduct-combat/manage-action-economy/take-move-action-on-turn/take_move_action_on_turn_story.test.md",
+  "map_path": "Conduct Combat > Manage Action Economy"
+ },
+ {
+  "actor": "Player",
+  "story": "Exchange Standard Action for Additional Move Action",
+  "path": "story_tests/conduct-combat/manage-action-economy/exchange-standard-action-for-additional-move-action/exchange_standard_action_for_additional_move_action_story.test.md",
+  "map_path": "Conduct Combat > Manage Action Economy"
+ },
+ {
+  "actor": "Player",
+  "story": "Take Free Action During Turn",
+  "path": "story_tests/conduct-combat/manage-action-economy/take-free-action-during-turn/take_free_action_during_turn_story.test.md",
+  "map_path": "Conduct Combat > Manage Action Economy"
+ },
+ {
+  "actor": "Player",
+  "story": "Take Reaction Outside Turn",
+  "path": "story_tests/conduct-combat/manage-action-economy/take-reaction-outside-turn/take_reaction_outside_turn_story.test.md",
+  "map_path": "Conduct Combat > Manage Action Economy"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Close Attack Check Against Parry",
+  "path": "story_tests/conduct-combat/execute-attacks/make-close-attack-check-against-parry/make_close_attack_check_against_parry_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "Player",
+  "story": "Make Ranged Attack Check Against Dodge",
+  "path": "story_tests/conduct-combat/execute-attacks/make-ranged-attack-check-against-dodge/make_ranged_attack_check_against_dodge_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Ranged Attack Distance Penalty",
+  "path": "story_tests/conduct-combat/execute-attacks/apply-ranged-attack-distance-penalty/apply_ranged_attack_distance_penalty_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Attack Check Against Defense Class",
+  "path": "story_tests/conduct-combat/execute-attacks/resolve-attack-check-against-defense-class/resolve_attack_check_against_defense_class_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Register Natural 1 as Automatic Miss",
+  "path": "story_tests/conduct-combat/execute-attacks/register-natural-1-as-automatic-miss/register_natural_1_as_automatic_miss_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Detect Natural 20 as Potential Critical Hit",
+  "path": "story_tests/conduct-combat/execute-attacks/detect-natural-20-as-potential-critical-hit/detect_natural_20_as_potential_critical_hit_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Determine Critical Hit When Total Meets Defense",
+  "path": "story_tests/conduct-combat/execute-attacks/determine-critical-hit-when-total-meets-defense/determine_critical_hit_when_total_meets_defense_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Critical Hit Effect Choice",
+  "path": "story_tests/conduct-combat/execute-attacks/apply-critical-hit-effect-choice/apply_critical_hit_effect_choice_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "System",
+  "story": "Bypass Attack Check for Area or Perception Effect",
+  "path": "story_tests/conduct-combat/execute-attacks/bypass-attack-check-for-area-or-perception-effect/bypass_attack_check_for_area_or_perception_effect_story.test.md",
+  "map_path": "Conduct Combat > Execute Attacks"
+ },
+ {
+  "actor": "Player",
+  "story": "Aim for Attack Bonus",
+  "path": "story_tests/conduct-combat/apply-aim-and-charge/aim-for-attack-bonus/aim_for_attack_bonus_story.test.md",
+  "map_path": "Conduct Combat > Apply Aim and Charge"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Vulnerable Condition During Aim",
+  "path": "story_tests/conduct-combat/apply-aim-and-charge/apply-vulnerable-condition-during-aim/apply_vulnerable_condition_during_aim_story.test.md",
+  "map_path": "Conduct Combat > Apply Aim and Charge"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Charge Attack with Penalty",
+  "path": "story_tests/conduct-combat/apply-aim-and-charge/execute-charge-attack-with-penalty/execute_charge_attack_with_penalty_story.test.md",
+  "map_path": "Conduct Combat > Apply Aim and Charge"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Slam Attack During Charge",
+  "path": "story_tests/conduct-combat/apply-aim-and-charge/execute-slam-attack-during-charge/execute_slam_attack_during_charge_story.test.md",
+  "map_path": "Conduct Combat > Apply Aim and Charge"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Attacker Toughness Check from Slam",
+  "path": "story_tests/conduct-combat/apply-aim-and-charge/apply-attacker-toughness-check-from-slam/apply_attacker_toughness_check_from_slam_story.test.md",
+  "map_path": "Conduct Combat > Apply Aim and Charge"
+ },
+ {
+  "actor": "Player",
+  "story": "Defend Against Incoming Attacks",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/defend-against-incoming-attacks/defend_against_incoming_attacks_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Feint with Deception Check",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/execute-feint-with-deception-check/execute_feint_with_deception_check_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Grab Attempt",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/execute-grab-attempt/execute_grab_attempt_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Grab Resistance Check",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/resolve-grab-resistance-check/resolve_grab_resistance_check_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Maintain Grab Hold as Free Action",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/maintain-grab-hold-as-free-action/maintain_grab_hold_as_free_action_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Damage Grabbed Target on Subsequent Turn",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/damage-grabbed-target-on-subsequent-turn/damage_grabbed_target_on_subsequent_turn_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Drag Restrained or Bound Target",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/drag-restrained-or-bound-target/drag_restrained_or_bound_target_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Escape from Grab",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/grab-target/escape-from-grab/escape_from_grab_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Grab Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Disarm Attempt",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/disarm-target/execute-disarm-attempt/execute_disarm_attempt_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Disarm Target"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Disarm Opposed Check",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/disarm-target/resolve-disarm-opposed-check/resolve_disarm_opposed_check_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Disarm Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Counter-Disarm as Reaction",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/disarm-target/counter-disarm-as-reaction/counter_disarm_as_reaction_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Disarm Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Trip Attempt",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/trip-target/execute-trip-attempt/execute_trip_attempt_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Trip Target"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Trip Opposed Check",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/trip-target/resolve-trip-opposed-check/resolve_trip_opposed_check_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Trip Target"
+ },
+ {
+  "actor": "Player",
+  "story": "Counter-Trip as Reaction",
+  "path": "story_tests/conduct-combat/perform-combat-maneuvers/trip-target/counter-trip-as-reaction/counter_trip_as_reaction_story.test.md",
+  "map_path": "Conduct Combat > Perform Combat Maneuvers > Trip Target"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Toughness Resistance Check Against Damage",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/resolve-toughness-resistance-check-against-damage/resolve_toughness_resistance_check_against_damage_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Cumulative Toughness Penalty",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/apply-cumulative-toughness-penalty/apply_cumulative_toughness_penalty_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Damage Condition by Degree of Failure",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/apply-damage-condition-by-degree-of-failure/apply_damage_condition_by_degree_of_failure_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Move Incapacitated Target to Dying",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/move-incapacitated-target-to-dying/move_incapacitated_target_to_dying_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Minion Defeat Rule on Any Resistance Failure",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/apply-minion-defeat-rule-on-any-resistance-failure/apply_minion_defeat_rule_on_any_resistance_failure_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "Player",
+  "story": "Recover from Damage in Conflict",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/recover-from-damage-in-conflict/recover_from_damage_in_conflict_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Remove Damage Condition After Rest",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/remove-damage-condition-after-rest/remove_damage_condition_after_rest_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Ongoing Effect Resistance Check at End of Turn",
+  "path": "story_tests/conduct-combat/resolve-damage-and-recovery/resolve-ongoing-effect-resistance-check-at-end-of-turn/resolve_ongoing_effect_resistance_check_at_end_of_turn_story.test.md",
+  "map_path": "Conduct Combat > Resolve Damage and Recovery"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Concealment Penalty to Attack Check",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/apply-concealment-penalty-to-attack-check/apply_concealment_penalty_to_attack_check_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Cover Penalty to Attack Check",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/apply-cover-penalty-to-attack-check/apply_cover_penalty_to_attack_check_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Cover Bonus Against Area Effect",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/apply-cover-bonus-against-area-effect/apply_cover_bonus_against_area_effect_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "GM",
+  "story": "Apply Surprise Round Rules",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/apply-surprise-round-rules/apply_surprise_round_rules_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Vulnerable to Surprised Characters",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/apply-vulnerable-to-surprised-characters/apply_vulnerable_to_surprised_characters_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "Player",
+  "story": "Execute Team Attack with Coordinated Attackers",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/execute-team-attack-with-coordinated-attackers/execute_team_attack_with_coordinated_attackers_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Team Attack Bonus from Combined Hits",
+  "path": "story_tests/conduct-combat/handle-tactical-environment/resolve-team-attack-bonus-from-combined-hits/resolve_team_attack_bonus_from_combined_hits_story.test.md",
+  "map_path": "Conduct Combat > Handle Tactical Environment"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Falling Damage by Distance Rank",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/apply-falling-damage-by-distance-rank/apply_falling_damage_by_distance_rank_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "Player",
+  "story": "Catch Falling Target with Dexterity Check",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/catch-falling-target-with-dexterity-check/catch_falling_target_with_dexterity_check_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Suffocation Sequence",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/apply-suffocation-sequence/apply_suffocation_sequence_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Environmental Hazard Check",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/apply-environmental-hazard-check/apply_environmental_hazard_check_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "Player",
+  "story": "Attack or Smash Object",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/attack-or-smash-object/attack_or_smash_object_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "System",
+  "story": "Resolve Object Toughness Check and Break Result",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/resolve-object-toughness-check-and-break-result/resolve_object_toughness_check_and_break_result_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Material Toughness Rating to Object",
+  "path": "story_tests/conduct-combat/handle-hazards-and-objects/apply-material-toughness-rating-to-object/apply_material_toughness_rating_to_object_story.test.md",
+  "map_path": "Conduct Combat > Handle Hazards and Objects"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point to Re-Roll Die",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-to-re-roll-die/spend_hero_point_to_re_roll_die_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point to Recover Condition Immediately",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-to-recover-condition-immediately/spend_hero_point_to_recover_condition_immediately_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point for Heroic Feat Advantage",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-for-heroic-feat-advantage/spend_hero_point_for_heroic_feat_advantage_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point to Edit Scene Detail",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-to-edit-scene-detail/spend_hero_point_to_edit_scene_detail_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point for Instant Counter",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-for-instant-counter/spend_hero_point_for_instant_counter_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Declare Extra Effort for Combat Benefit",
+  "path": "story_tests/conduct-combat/use-hero-resources/declare-extra-effort-for-combat-benefit/declare_extra_effort_for_combat_benefit_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Activate Power Stunt via Extra Effort",
+  "path": "story_tests/conduct-combat/use-hero-resources/activate-power-stunt-via-extra-effort/activate_power_stunt_via_extra_effort_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Hero Point to Remove Extra Effort Fatigue",
+  "path": "story_tests/conduct-combat/use-hero-resources/spend-hero-point-to-remove-extra-effort-fatigue/spend_hero_point_to_remove_extra_effort_fatigue_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ },
+ {
+  "actor": "System",
+  "story": "Apply Extra Effort Fatigue at Start of Next Turn",
+  "path": "story_tests/conduct-combat/use-hero-resources/apply-extra-effort-fatigue-at-start-of-next-turn/apply_extra_effort_fatigue_at_start_of_next_turn_story.test.md",
+  "map_path": "Conduct Combat > Use Hero Resources"
+ }
+]

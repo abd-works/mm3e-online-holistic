@@ -1,0 +1,188 @@
+[
+ {
+  "actor": "GM",
+  "story": "Set Series Power Level",
+  "path": "story_tests/construct-hero/allocate-resources/set-series-power-level/set_series_power_level_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "System",
+  "story": "Derive Starting Power Points from Power Level",
+  "path": "story_tests/construct-hero/allocate-resources/derive-starting-power-points-from-power-level/derive_starting_power_points_from_power_level_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points on Ability Ranks",
+  "path": "story_tests/construct-hero/allocate-resources/spend-power-points-on-ability-ranks/spend_power_points_on_ability_ranks_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points on Defense Ranks",
+  "path": "story_tests/construct-hero/allocate-resources/spend-power-points-on-defense-ranks/spend_power_points_on_defense_ranks_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points on Skill Ranks",
+  "path": "story_tests/construct-hero/allocate-resources/spend-power-points-on-skill-ranks/spend_power_points_on_skill_ranks_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points on Advantages",
+  "path": "story_tests/construct-hero/allocate-resources/spend-power-points-on-advantages/spend_power_points_on_advantages_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Power Points on Powers",
+  "path": "story_tests/construct-hero/allocate-resources/spend-power-points-on-powers/spend_power_points_on_powers_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "System",
+  "story": "Validate Power Points Total Balance",
+  "path": "story_tests/construct-hero/allocate-resources/validate-power-points-total-balance/validate_power_points_total_balance_story.test.md",
+  "map_path": "Construct Hero > Allocate Resources"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Attack and Effect Cap",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/enforce-attack-and-effect-cap/enforce_attack_and_effect_cap_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Dodge and Toughness Cap",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/enforce-dodge-and-toughness-cap/enforce_dodge_and_toughness_cap_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Parry and Toughness Cap",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/enforce-parry-and-toughness-cap/enforce_parry_and_toughness_cap_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Fortitude and Will Cap",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/enforce-fortitude-and-will-cap/enforce_fortitude_and_will_cap_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Skill Modifier Cap",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/enforce-skill-modifier-cap/enforce_skill_modifier_cap_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "Player",
+  "story": "Apply Trade-Off within Limit Pair",
+  "path": "story_tests/construct-hero/enforce-power-level-limits/apply-trade-off-within-limit-pair/apply_trade_off_within_limit_pair_story.test.md",
+  "map_path": "Construct Hero > Enforce Power Level Limits"
+ },
+ {
+  "actor": "Player",
+  "story": "Develop Hero Concept",
+  "path": "story_tests/construct-hero/define-hero-identity/develop-hero-concept/develop_hero_concept_story.test.md",
+  "map_path": "Construct Hero > Define Hero Identity"
+ },
+ {
+  "actor": "Player",
+  "story": "Choose Hero Origin",
+  "path": "story_tests/construct-hero/define-hero-identity/choose-hero-origin/choose_hero_origin_story.test.md",
+  "map_path": "Construct Hero > Define Hero Identity"
+ },
+ {
+  "actor": "Player",
+  "story": "Record Hero Background Details",
+  "path": "story_tests/construct-hero/define-hero-identity/record-hero-background-details/record_hero_background_details_story.test.md",
+  "map_path": "Construct Hero > Define Hero Identity"
+ },
+ {
+  "actor": "Player",
+  "story": "Design Hero Costume",
+  "path": "story_tests/construct-hero/define-hero-identity/design-hero-costume/design_hero_costume_story.test.md",
+  "map_path": "Construct Hero > Define Hero Identity"
+ },
+ {
+  "actor": "Player",
+  "story": "Choose Motivation Complication",
+  "path": "story_tests/construct-hero/choose-complications/choose-motivation-complication/choose_motivation_complication_story.test.md",
+  "map_path": "Construct Hero > Choose Complications"
+ },
+ {
+  "actor": "Player",
+  "story": "Choose Complication",
+  "path": "story_tests/construct-hero/choose-complications/choose-complication/choose_complication_story.test.md",
+  "map_path": "Construct Hero > Choose Complications"
+ },
+ {
+  "actor": "Player",
+  "story": "Specify Weakness Trigger and Effect with GM",
+  "path": "story_tests/construct-hero/choose-complications/specify-weakness-trigger-and-effect-with-gm/specify_weakness_trigger_and_effect_with_gm_story.test.md",
+  "map_path": "Construct Hero > Choose Complications"
+ },
+ {
+  "actor": "System",
+  "story": "Validate Minimum Complication Requirement",
+  "path": "story_tests/construct-hero/choose-complications/validate-minimum-complication-requirement/validate_minimum_complication_requirement_story.test.md",
+  "map_path": "Construct Hero > Choose Complications"
+ },
+ {
+  "actor": "Player",
+  "story": "Evolve Complication over Series",
+  "path": "story_tests/construct-hero/choose-complications/evolve-complication-over-series/evolve_complication_over_series_story.test.md",
+  "map_path": "Construct Hero > Choose Complications"
+ },
+ {
+  "actor": "GM",
+  "story": "Review Hero Power Points Allocation",
+  "path": "story_tests/construct-hero/approve-and-finalize-hero/review-hero-power-points-allocation/review_hero_power_points_allocation_story.test.md",
+  "map_path": "Construct Hero > Approve and Finalize Hero"
+ },
+ {
+  "actor": "GM",
+  "story": "Verify Hero Follows Power Level Guidelines",
+  "path": "story_tests/construct-hero/approve-and-finalize-hero/verify-hero-follows-power-level-guidelines/verify_hero_follows_power_level_guidelines_story.test.md",
+  "map_path": "Construct Hero > Approve and Finalize Hero"
+ },
+ {
+  "actor": "GM",
+  "story": "Approve Completed Hero for Play",
+  "path": "story_tests/construct-hero/approve-and-finalize-hero/approve-completed-hero-for-play/approve_completed_hero_for_play_story.test.md",
+  "map_path": "Construct Hero > Approve and Finalize Hero"
+ },
+ {
+  "actor": "GM",
+  "story": "Award Power Points after Adventure",
+  "path": "story_tests/construct-hero/improve-hero-between-adventures/award-power-points-after-adventure/award_power_points_after_adventure_story.test.md",
+  "map_path": "Construct Hero > Improve Hero Between Adventures"
+ },
+ {
+  "actor": "Player",
+  "story": "Spend Earned Power Points on Traits",
+  "path": "story_tests/construct-hero/improve-hero-between-adventures/spend-earned-power-points-on-traits/spend_earned_power_points_on_traits_story.test.md",
+  "map_path": "Construct Hero > Improve Hero Between Adventures"
+ },
+ {
+  "actor": "System",
+  "story": "Enforce Power Level Limits on Earned Spending",
+  "path": "story_tests/construct-hero/improve-hero-between-adventures/enforce-power-level-limits-on-earned-spending/enforce_power_level_limits_on_earned_spending_story.test.md",
+  "map_path": "Construct Hero > Improve Hero Between Adventures"
+ },
+ {
+  "actor": "GM",
+  "story": "Raise Series Power Level",
+  "path": "story_tests/construct-hero/improve-hero-between-adventures/raise-series-power-level/raise_series_power_level_story.test.md",
+  "map_path": "Construct Hero > Improve Hero Between Adventures"
+ },
+ {
+  "actor": "Player",
+  "story": "Reallocate Power Points via Transformation",
+  "path": "story_tests/construct-hero/improve-hero-between-adventures/reallocate-power-points-via-transformation/reallocate_power_points_via_transformation_story.test.md",
+  "map_path": "Construct Hero > Improve Hero Between Adventures"
+ }
+]
