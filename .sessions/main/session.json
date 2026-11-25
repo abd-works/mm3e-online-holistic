@@ -5,7 +5,7 @@
       "specification",
       "implementation"
     ],
-    "version": 41
+    "version": 42
   },
   "practices": {
     "stories": {
@@ -32,7 +32,7 @@
       "enabled": false
     },
     "clean_engineering": {
-      "enabled": false,
+      "enabled": true,
       "fidelities": {
         "model": {
           "formats": [
