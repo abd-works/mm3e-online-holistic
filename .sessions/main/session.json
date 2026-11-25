@@ -4,7 +4,7 @@
       "discovery",
       "specification"
     ],
-    "version": 39
+    "version": 40
   },
   "practices": {
     "stories": {
@@ -12,7 +12,9 @@
       "fidelities": {
         "story_map": {
           "formats": [
-            "markdown"
+            "markdown",
+            "drawio",
+            "whiteboard"
           ]
         },
         "scenarios": {
