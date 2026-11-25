@@ -367,3 +367,17 @@
 2026-11-25T20:09:49Z tool graph.inventory d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3678
 2026-11-25T20:10:08Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3706
 2026-11-25T20:20:22Z tool graph.load_files d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3779
+2026-11-25T20:23:20Z tool graph.inventory d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-3900
+2026-11-25T20:25:23Z render C:\dev\mm3e-online-holistic, C:\dev\mm3e-online-holistic\tests stories scenarios markdown d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4102
+2026-11-25T20:26:38Z error chat.send C:\dev\mm3e-online-holistic\.sessions\main\session.err 16891 no-chat
+2026-11-25T20:26:53Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4183
+2026-11-25T20:27:03Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4186
+2026-11-25T20:27:06Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4193
+2026-11-25T20:28:15Z error chat.send C:\dev\mm3e-online-holistic\.sessions\main\session.err 16910 no-chat
+2026-11-25T20:34:44Z render C:\dev\mm3e-online-holistic, C:\dev\mm3e-online-holistic\tests stories story_map drawio d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4224
+2026-11-25T20:35:03Z render C:\dev\mm3e-online-holistic, C:\dev\mm3e-online-holistic\src clean_engineering modules drawio d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4251
+2026-11-25T20:35:13Z render C:\dev\mm3e-online-holistic, C:\dev\mm3e-online-holistic\src clean_engineering model drawio d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4261
+2026-11-25T20:36:31Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4372
+2026-11-25T20:41:33Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4408
+2026-11-25T20:41:40Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4408
+2026-11-25T20:41:54Z tool prompt-queue.show d7f0f11e-33a4-4490-bb56-9dfe4ea91822 C:\Users\jeffa\.claude\projects\C--dev-mm3e-online-holistic\d7f0f11e-33a4-4490-bb56-9dfe4ea91822.jsonl 1-4428

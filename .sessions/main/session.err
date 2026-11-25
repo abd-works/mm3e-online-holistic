@@ -16888,3 +16888,41 @@ Traceback (most recent call last):
   File "C:\Users\jeffa\.cdd\runtime\harness\guidance_actions\guidance_actions.py", line 319, in _refuse_turned_off
     raise GuidanceTurnedOff(f"{slug} is {kind} {practice.slug}, which is turned off for session {self._session_name}; turn {practice.slug} on for the session to work on it")
 harness.guidance_actions.guidance_actions.GuidanceTurnedOff: stories-scenarios is a fidelity of stories, which is turned off for session main; turn stories on for the session to work on it
+2026-11-25T20:26:38Z chat.send ChatNotConnectedError: chat 'd7f0f11e-33a4-4490-bb56-9dfe4ea91822' is not connected: is the cdd-board mod loaded in it?
+Traceback (most recent call last):
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 783, in _answer_between_restarts
+    return server.answer(call.request.tool, call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 519, in answer
+    return published.answer(call)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 1029, in answer
+    return tool.callable(**self.parameter_schema.coerced(call.arguments), **tool._from_the_call(call))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 878, in on_subject
+    return self._operation(found, **arguments, **({SERVED_CALL: call} if self._takes_call else {}))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\chat\chat.py", line 302, in send
+    self.mailbox.queue(kind, text)
+  File "C:\Users\jeffa\.cdd\runtime\harness\chat\chat.py", line 416, in queue
+    raise ChatNotConnectedError(self._chat.id)
+harness.chat.chat.ChatNotConnectedError: chat 'd7f0f11e-33a4-4490-bb56-9dfe4ea91822' is not connected: is the cdd-board mod loaded in it?
+2026-11-25T20:28:15Z chat.send ChatNotConnectedError: chat 'd7f0f11e-33a4-4490-bb56-9dfe4ea91822' is not connected: is the cdd-board mod loaded in it?
+Traceback (most recent call last):
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 783, in _answer_between_restarts
+    return server.answer(call.request.tool, call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\mcp\mcp_server.py", line 519, in answer
+    return published.answer(call)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 1029, in answer
+    return tool.callable(**self.parameter_schema.coerced(call.arguments), **tool._from_the_call(call))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\agent_tools\agent_tools.py", line 878, in on_subject
+    return self._operation(found, **arguments, **({SERVED_CALL: call} if self._takes_call else {}))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeffa\.cdd\runtime\harness\chat\chat.py", line 302, in send
+    self.mailbox.queue(kind, text)
+  File "C:\Users\jeffa\.cdd\runtime\harness\chat\chat.py", line 416, in queue
+    raise ChatNotConnectedError(self._chat.id)
+harness.chat.chat.ChatNotConnectedError: chat 'd7f0f11e-33a4-4490-bb56-9dfe4ea91822' is not connected: is the cdd-board mod loaded in it?
