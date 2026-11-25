@@ -1,0 +1,9 @@
+{
+  "guidance": {
+    "stages": [
+      "discovery",
+      "implementation"
+    ],
+    "version": 1
+  }
+}
